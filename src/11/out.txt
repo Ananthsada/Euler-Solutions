@@ -1,0 +1,2050 @@
+Row : 0 ,Column : 0 	Highest : 0
+GetDownProduct : 		8	49	81	52	1651104
+GetRightProduct : 		8	2	22	97	34144
+GetDiagonalProduct : 	8	49	31	23	279496
+Row : 0 ,Column : 1 	Highest : 1651104
+GetDownProduct : 		2	49	49	70	336140
+GetRightProduct : 		2	22	97	38	162184
+GetDiagonalProduct : 	2	99	73	4	57816
+Row : 0 ,Column : 2 	Highest : 1651104
+GetDownProduct : 		22	99	31	95	6414210
+GetRightProduct : 		22	97	38	15	1216380
+GetDiagonalProduct : 	22	40	55	60	2904000
+Row : 0 ,Column : 3 	Highest : 6414210
+GetDownProduct : 		97	40	73	23	6514520
+GetLeftProduct : 		8	2	22	97	34144
+GetRightProduct : 		97	38	15	0	0
+GetDiagonalProduct : 	97	17	79	11	1432981
+Row : 0 ,Column : 4 	Highest : 6514520
+GetDownProduct : 		38	17	55	4	142120
+GetLeftProduct : 		2	22	97	38	162184
+GetRightProduct : 		38	15	0	40	0
+GetDiagonalProduct : 	38	81	14	42	1809864
+Row : 0 ,Column : 5 	Highest : 6514520
+GetDownProduct : 		15	81	79	60	5759100
+GetLeftProduct : 		22	97	38	15	1216380
+GetRightProduct : 		15	0	40	0	0
+GetDiagonalProduct : 	15	18	29	69	540270
+Row : 0 ,Column : 6 	Highest : 6514520
+GetDownProduct : 		0	18	14	11	0
+GetLeftProduct : 		97	38	15	0	0
+GetRightProduct : 		0	40	0	75	0
+GetDiagonalProduct : 	0	57	93	24	0
+Row : 0 ,Column : 7 	Highest : 6514520
+GetDownProduct : 		40	57	29	42	2777040
+GetLeftProduct : 		38	15	0	40	0
+GetRightProduct : 		40	0	75	4	0
+GetDiagonalProduct : 	40	60	71	68	11587200
+Row : 0 ,Column : 8 	Highest : 11587200
+GetDownProduct : 		0	60	93	69	0
+GetLeftProduct : 		15	0	40	0	0
+GetRightProduct : 		0	75	4	5	0
+GetDiagonalProduct : 	0	87	40	56	0
+Row : 0 ,Column : 9 	Highest : 11587200
+GetDownProduct : 		75	87	71	24	11118600
+GetLeftProduct : 		0	40	0	75	0
+GetRightProduct : 		75	4	5	7	10500
+GetDiagonalProduct : 	75	17	67	1	85425
+Row : 0 ,Column : 10 	Highest : 11587200
+GetDownProduct : 		4	17	40	68	184960
+GetLeftProduct : 		40	0	75	4	0
+GetRightProduct : 		4	5	7	78	10920
+GetDiagonalProduct : 	4	40	53	32	271360
+Row : 0 ,Column : 11 	Highest : 11587200
+GetDownProduct : 		5	40	67	56	750400
+GetLeftProduct : 		0	75	4	5	0
+GetRightProduct : 		5	7	78	52	141960
+GetDiagonalProduct : 	5	98	88	56	2414720
+Row : 0 ,Column : 12 	Highest : 11587200
+GetDownProduct : 		7	98	53	1	36358
+GetLeftProduct : 		75	4	5	7	10500
+GetRightProduct : 		7	78	52	12	340704
+GetDiagonalProduct : 	7	43	30	71	641130
+Row : 0 ,Column : 13 	Highest : 11587200
+GetDownProduct : 		78	43	88	32	9444864
+GetLeftProduct : 		4	5	7	78	10920
+GetRightProduct : 		78	52	12	50	2433600
+GetDiagonalProduct : 	78	69	3	37	597402
+Row : 0 ,Column : 14 	Highest : 11587200
+GetDownProduct : 		52	69	30	56	6027840
+GetLeftProduct : 		5	7	78	52	141960
+GetRightProduct : 		52	12	50	77	2402400
+GetDiagonalProduct : 	52	48	49	2	244608
+Row : 0 ,Column : 15 	Highest : 11587200
+GetDownProduct : 		12	48	3	71	122688
+GetLeftProduct : 		7	78	52	12	340704
+GetRightProduct : 		12	50	77	91	4204200
+GetDiagonalProduct : 	12	4	13	36	22464
+Row : 0 ,Column : 16 	Highest : 11587200
+GetDownProduct : 		50	4	49	37	362600
+GetLeftProduct : 		78	52	12	50	2433600
+GetRightProduct : 		50	77	91	8	2802800
+GetDiagonalProduct : 	50	56	36	91	9172800
+Row : 0 ,Column : 17 	Highest : 11587200
+GetDownProduct : 		77	56	13	2	112112
+GetLeftProduct : 		52	12	50	77	2402400
+Row : 0 ,Column : 18 	Highest : 11587200
+GetDownProduct : 		91	62	36	36	7312032
+GetLeftProduct : 		12	50	77	91	4204200
+Row : 0 ,Column : 19 	Highest : 11587200
+GetDownProduct : 		8	0	65	91	0
+GetLeftProduct : 		50	77	91	8	2802800
+Row : 1 ,Column : 0 	Highest : 11587200
+GetDownProduct : 		49	81	52	22	4540536
+GetRightProduct : 		49	49	99	40	9507960
+GetDiagonalProduct : 	49	49	95	71	16194745
+Row : 1 ,Column : 1 	Highest : 16194745
+GetDownProduct : 		49	49	70	31	5210170
+GetRightProduct : 		49	99	40	17	3298680
+GetDiagonalProduct : 	49	31	23	51	1781787
+Row : 1 ,Column : 2 	Highest : 16194745
+GetDownProduct : 		99	31	95	16	4664880
+GetRightProduct : 		99	40	17	81	5452920
+GetDiagonalProduct : 	99	73	4	67	1936836
+Row : 1 ,Column : 3 	Highest : 16194745
+GetDownProduct : 		40	73	23	71	4768360
+GetLeftProduct : 		49	49	99	40	9507960
+GetRightProduct : 		40	17	81	18	991440
+GetDiagonalProduct : 	40	55	60	63	8316000
+Row : 1 ,Column : 4 	Highest : 16194745
+GetDownProduct : 		17	55	4	51	190740
+GetLeftProduct : 		49	99	40	17	3298680
+GetRightProduct : 		17	81	18	57	1412802
+GetDiagonalProduct : 	17	79	11	89	1314797
+Row : 1 ,Column : 5 	Highest : 16194745
+GetDownProduct : 		81	79	60	67	25723980
+GetLeftProduct : 		99	40	17	81	5452920
+GetRightProduct : 		81	18	57	60	4986360
+GetDiagonalProduct : 	81	14	42	41	1952748
+Row : 1 ,Column : 6 	Highest : 25723980
+GetDownProduct : 		18	14	11	63	174636
+GetLeftProduct : 		40	17	81	18	991440
+GetRightProduct : 		18	57	60	87	5355720
+GetDiagonalProduct : 	18	29	69	92	3313656
+Row : 1 ,Column : 7 	Highest : 25723980
+GetDownProduct : 		57	29	42	89	6178914
+GetLeftProduct : 		17	81	18	57	1412802
+GetRightProduct : 		57	60	87	17	5058180
+GetDiagonalProduct : 	57	93	24	36	4580064
+Row : 1 ,Column : 8 	Highest : 25723980
+GetDownProduct : 		60	93	69	41	15785820
+GetLeftProduct : 		81	18	57	60	4986360
+GetRightProduct : 		60	87	17	40	3549600
+GetDiagonalProduct : 	60	71	68	54	15642720
+Row : 1 ,Column : 9 	Highest : 25723980
+GetDownProduct : 		87	71	24	92	13638816
+GetLeftProduct : 		18	57	60	87	5355720
+GetRightProduct : 		87	17	40	98	5797680
+GetDiagonalProduct : 	87	40	56	22	4287360
+Row : 1 ,Column : 10 	Highest : 25723980
+GetDownProduct : 		17	40	68	36	1664640
+GetLeftProduct : 		57	60	87	17	5058180
+GetRightProduct : 		17	40	98	43	2865520
+GetDiagonalProduct : 	17	67	1	40	45560
+Row : 1 ,Column : 11 	Highest : 25723980
+GetDownProduct : 		40	67	56	54	8104320
+GetLeftProduct : 		60	87	17	40	3549600
+GetRightProduct : 		40	98	43	69	11630640
+GetDiagonalProduct : 	40	53	32	40	2713600
+Row : 1 ,Column : 12 	Highest : 25723980
+GetDownProduct : 		98	53	1	22	114268
+GetLeftProduct : 		87	17	40	98	5797680
+GetRightProduct : 		98	43	69	48	13956768
+GetDiagonalProduct : 	98	88	56	28	13522432
+Row : 1 ,Column : 13 	Highest : 25723980
+GetDownProduct : 		43	88	32	40	4843520
+GetLeftProduct : 		17	40	98	43	2865520
+GetRightProduct : 		43	69	48	4	569664
+GetDiagonalProduct : 	43	30	71	66	6044940
+Row : 1 ,Column : 14 	Highest : 25723980
+GetDownProduct : 		69	30	56	40	4636800
+GetLeftProduct : 		40	98	43	69	11630640
+GetRightProduct : 		69	48	4	56	741888
+GetDiagonalProduct : 	69	3	37	33	252747
+Row : 1 ,Column : 15 	Highest : 25723980
+GetDownProduct : 		48	3	71	28	286272
+GetLeftProduct : 		98	43	69	48	13956768
+GetRightProduct : 		48	4	56	62	666624
+GetDiagonalProduct : 	48	49	2	13	61152
+Row : 1 ,Column : 16 	Highest : 25723980
+GetDownProduct : 		4	49	37	66	478632
+GetLeftProduct : 		43	69	48	4	569664
+GetRightProduct : 		4	56	62	0	0
+GetDiagonalProduct : 	4	13	36	80	149760
+Row : 1 ,Column : 17 	Highest : 25723980
+GetDownProduct : 		56	13	2	33	48048
+GetLeftProduct : 		69	48	4	56	741888
+Row : 1 ,Column : 18 	Highest : 25723980
+GetDownProduct : 		62	36	36	13	1044576
+GetLeftProduct : 		48	4	56	62	666624
+Row : 1 ,Column : 19 	Highest : 25723980
+GetDownProduct : 		0	65	91	80	0
+GetLeftProduct : 		4	56	62	0	0
+Row : 2 ,Column : 0 	Highest : 25723980
+GetDownProduct : 		81	52	22	24	2223936
+GetRightProduct : 		81	49	31	73	8981847
+GetDiagonalProduct : 	81	70	16	60	5443200
+Row : 2 ,Column : 1 	Highest : 25723980
+GetDownProduct : 		49	70	31	47	4997510
+GetRightProduct : 		49	31	73	55	6098785
+GetDiagonalProduct : 	49	95	71	99	32719995
+Row : 2 ,Column : 2 	Highest : 32719995
+GetDownProduct : 		31	95	16	32	1507840
+GetRightProduct : 		31	73	55	79	9832735
+GetDiagonalProduct : 	31	23	51	3	109089
+Row : 2 ,Column : 3 	Highest : 32719995
+GetDownProduct : 		73	23	71	60	7152540
+GetLeftProduct : 		81	49	31	73	8981847
+GetRightProduct : 		73	55	79	14	4440590
+GetDiagonalProduct : 	73	4	67	45	880380
+Row : 2 ,Column : 4 	Highest : 32719995
+GetDownProduct : 		55	4	51	99	1110780
+GetLeftProduct : 		49	31	73	55	6098785
+GetRightProduct : 		55	79	14	29	1764070
+GetDiagonalProduct : 	55	60	63	2	415800
+Row : 2 ,Column : 5 	Highest : 32719995
+GetDownProduct : 		79	60	67	3	952740
+GetLeftProduct : 		31	73	55	79	9832735
+GetRightProduct : 		79	14	29	93	2982882
+GetDiagonalProduct : 	79	11	89	44	3403004
+Row : 2 ,Column : 6 	Highest : 32719995
+GetDownProduct : 		14	11	63	45	436590
+GetLeftProduct : 		73	55	79	14	4440590
+GetRightProduct : 		14	29	93	71	2680818
+GetDiagonalProduct : 	14	42	41	75	1808100
+Row : 2 ,Column : 7 	Highest : 32719995
+GetDownProduct : 		29	42	89	2	216804
+GetLeftProduct : 		55	79	14	29	1764070
+GetRightProduct : 		29	93	71	40	7659480
+GetDiagonalProduct : 	29	69	92	33	6075036
+Row : 2 ,Column : 8 	Highest : 32719995
+GetDownProduct : 		93	69	41	44	11576268
+GetLeftProduct : 		79	14	29	93	2982882
+GetRightProduct : 		93	71	40	67	17696040
+GetDiagonalProduct : 	93	24	36	53	4258656
+Row : 2 ,Column : 9 	Highest : 32719995
+GetDownProduct : 		71	24	92	75	11757600
+GetLeftProduct : 		14	29	93	71	2680818
+GetRightProduct : 		71	40	67	53	10084840
+GetDiagonalProduct : 	71	68	54	78	20335536
+Row : 2 ,Column : 10 	Highest : 32719995
+GetDownProduct : 		40	68	36	33	3231360
+GetLeftProduct : 		29	93	71	40	7659480
+GetRightProduct : 		40	67	53	88	12499520
+GetDiagonalProduct : 	40	56	22	36	1774080
+Row : 2 ,Column : 11 	Highest : 32719995
+GetDownProduct : 		67	56	54	53	10738224
+GetLeftProduct : 		93	71	40	67	17696040
+GetRightProduct : 		67	53	88	30	9374640
+GetDiagonalProduct : 	67	1	40	84	225120
+Row : 2 ,Column : 12 	Highest : 32719995
+GetDownProduct : 		53	1	22	78	90948
+GetLeftProduct : 		71	40	67	53	10084840
+GetRightProduct : 		53	88	30	3	419760
+GetDiagonalProduct : 	53	32	40	20	1356800
+Row : 2 ,Column : 13 	Highest : 32719995
+GetDownProduct : 		88	32	40	36	4055040
+GetLeftProduct : 		40	67	53	88	12499520
+GetRightProduct : 		88	30	3	49	388080
+GetDiagonalProduct : 	88	56	28	35	4829440
+Row : 2 ,Column : 14 	Highest : 32719995
+GetDownProduct : 		30	56	40	84	5644800
+GetLeftProduct : 		67	53	88	30	9374640
+GetRightProduct : 		30	3	49	13	57330
+GetDiagonalProduct : 	30	71	66	17	2389860
+Row : 2 ,Column : 15 	Highest : 32719995
+GetDownProduct : 		3	71	28	20	119280
+GetLeftProduct : 		53	88	30	3	419760
+GetRightProduct : 		3	49	13	36	68796
+GetDiagonalProduct : 	3	37	33	12	43956
+Row : 2 ,Column : 16 	Highest : 32719995
+GetDownProduct : 		49	37	66	35	4188030
+GetLeftProduct : 		88	30	3	49	388080
+GetRightProduct : 		49	13	36	65	1490580
+GetDiagonalProduct : 	49	2	13	50	63700
+Row : 2 ,Column : 17 	Highest : 32719995
+GetDownProduct : 		13	2	33	17	14586
+GetLeftProduct : 		30	3	49	13	57330
+Row : 2 ,Column : 18 	Highest : 32719995
+GetDownProduct : 		36	36	13	12	202176
+GetLeftProduct : 		3	49	13	36	68796
+Row : 2 ,Column : 19 	Highest : 32719995
+GetDownProduct : 		65	91	80	50	23660000
+GetLeftProduct : 		49	13	36	65	1490580
+Row : 3 ,Column : 0 	Highest : 32719995
+GetUpProduct : 		8	49	81	52	1651104
+GetDownProduct : 		52	22	24	32	878592
+GetRightProduct : 		52	70	95	23	7953400
+GetDiagonalProduct : 	52	31	32	28	1444352
+Row : 3 ,Column : 1 	Highest : 32719995
+GetUpProduct : 		2	49	49	70	336140
+GetDownProduct : 		70	31	47	98	9995020
+GetRightProduct : 		70	95	23	4	611800
+GetDiagonalProduct : 	70	16	60	64	4300800
+Row : 3 ,Column : 2 	Highest : 32719995
+GetUpProduct : 		22	99	31	95	6414210
+GetDownProduct : 		95	16	32	81	3939840
+GetRightProduct : 		95	23	4	60	524400
+GetDiagonalProduct : 	95	71	99	23	15358365
+Row : 3 ,Column : 3 	Highest : 32719995
+GetUpProduct : 		97	40	73	23	6514520
+GetDownProduct : 		23	71	60	28	2743440
+GetLeftProduct : 		52	70	95	23	7953400
+GetRightProduct : 		23	4	60	11	60720
+GetDiagonalProduct : 	23	51	3	67	235773
+Row : 3 ,Column : 4 	Highest : 32719995
+GetUpProduct : 		38	17	55	4	142120
+GetDownProduct : 		4	51	99	64	1292544
+GetLeftProduct : 		70	95	23	4	611800
+GetRightProduct : 		4	60	11	42	110880
+GetDiagonalProduct : 	4	67	45	10	120600
+Row : 3 ,Column : 5 	Highest : 32719995
+GetUpProduct : 		15	81	79	60	5759100
+GetDownProduct : 		60	67	3	23	277380
+GetLeftProduct : 		95	23	4	60	524400
+GetRightProduct : 		60	11	42	69	1912680
+GetDiagonalProduct : 	60	63	2	26	196560
+Row : 3 ,Column : 6 	Highest : 32719995
+GetUpProduct : 		0	18	14	11	0
+GetDownProduct : 		11	63	45	67	2089395
+GetLeftProduct : 		23	4	60	11	60720
+GetRightProduct : 		11	42	69	24	765072
+GetDiagonalProduct : 	11	89	44	38	1636888
+Row : 3 ,Column : 7 	Highest : 32719995
+GetUpProduct : 		40	57	29	42	2777040
+GetDownProduct : 		42	89	2	10	74760
+GetLeftProduct : 		4	60	11	42	110880
+GetRightProduct : 		42	69	24	68	4729536
+GetDiagonalProduct : 	42	41	75	40	5166000
+Row : 3 ,Column : 8 	Highest : 32719995
+GetUpProduct : 		0	60	93	69	0
+GetDownProduct : 		69	41	44	26	3236376
+GetLeftProduct : 		60	11	42	69	1912680
+GetRightProduct : 		69	24	68	56	6306048
+GetDiagonalProduct : 	69	92	33	67	14035428
+Row : 3 ,Column : 9 	Highest : 32719995
+GetUpProduct : 		75	87	71	24	11118600
+GetDownProduct : 		24	92	75	38	6292800
+GetLeftProduct : 		11	42	69	24	765072
+GetRightProduct : 		24	68	56	1	91392
+GetDiagonalProduct : 	24	36	53	59	2701728
+Row : 3 ,Column : 10 	Highest : 32719995
+GetUpProduct : 		4	17	40	68	184960
+GetDownProduct : 		68	36	33	40	3231360
+GetLeftProduct : 		42	69	24	68	4729536
+GetRightProduct : 		68	56	1	32	121856
+GetDiagonalProduct : 	68	54	78	54	15466464
+Row : 3 ,Column : 11 	Highest : 32719995
+GetUpProduct : 		5	40	67	56	750400
+GetDownProduct : 		56	54	53	67	10738224
+GetLeftProduct : 		69	24	68	56	6306048
+GetRightProduct : 		56	1	32	56	100352
+GetDiagonalProduct : 	56	22	36	70	3104640
+Row : 3 ,Column : 12 	Highest : 32719995
+GetUpProduct : 		7	98	53	1	36358
+GetDownProduct : 		1	22	78	59	101244
+GetLeftProduct : 		24	68	56	1	91392
+GetRightProduct : 		1	32	56	71	127232
+GetDiagonalProduct : 	1	40	84	66	221760
+Row : 3 ,Column : 13 	Highest : 32719995
+GetUpProduct : 		78	43	88	32	9444864
+GetDownProduct : 		32	40	36	54	2488320
+GetLeftProduct : 		68	56	1	32	121856
+GetRightProduct : 		32	56	71	37	4707584
+GetDiagonalProduct : 	32	40	20	18	460800
+Row : 3 ,Column : 14 	Highest : 32719995
+GetUpProduct : 		52	69	30	56	6027840
+GetDownProduct : 		56	40	84	70	13171200
+GetLeftProduct : 		56	1	32	56	100352
+GetRightProduct : 		56	71	37	2	294224
+GetDiagonalProduct : 	56	28	35	38	2085440
+Row : 3 ,Column : 15 	Highest : 32719995
+GetUpProduct : 		12	48	3	71	122688
+GetDownProduct : 		71	28	20	66	2624160
+GetLeftProduct : 		1	32	56	71	127232
+GetRightProduct : 		71	37	2	36	189144
+GetDiagonalProduct : 	71	66	17	64	5098368
+Row : 3 ,Column : 16 	Highest : 32719995
+GetUpProduct : 		50	4	49	37	362600
+GetDownProduct : 		37	66	35	18	1538460
+GetLeftProduct : 		32	56	71	37	4707584
+GetRightProduct : 		37	2	36	91	242424
+GetDiagonalProduct : 	37	33	12	70	1025640
+Row : 3 ,Column : 17 	Highest : 32719995
+GetUpProduct : 		77	56	13	2	112112
+GetDownProduct : 		2	33	17	38	42636
+GetLeftProduct : 		56	71	37	2	294224
+Row : 3 ,Column : 18 	Highest : 32719995
+GetUpProduct : 		91	62	36	36	7312032
+GetDownProduct : 		36	13	12	64	359424
+GetLeftProduct : 		71	37	2	36	189144
+Row : 3 ,Column : 19 	Highest : 32719995
+GetUpProduct : 		8	0	65	91	0
+GetDownProduct : 		91	80	50	70	25480000
+GetLeftProduct : 		37	2	36	91	242424
+Row : 4 ,Column : 0 	Highest : 32719995
+GetUpProduct : 		49	81	52	22	4540536
+GetDownProduct : 		22	24	32	67	1132032
+GetRightProduct : 		22	31	16	71	774752
+GetDiagonalProduct : 	22	47	81	68	5695272
+Row : 4 ,Column : 1 	Highest : 32719995
+GetUpProduct : 		49	49	70	31	5210170
+GetDownProduct : 		31	47	98	26	3712436
+GetRightProduct : 		31	16	71	51	1796016
+GetDiagonalProduct : 	31	32	28	2	55552
+Row : 4 ,Column : 2 	Highest : 32719995
+GetUpProduct : 		99	31	95	16	4664880
+GetDownProduct : 		16	32	81	20	829440
+GetRightProduct : 		16	71	51	67	3881712
+GetDiagonalProduct : 	16	60	64	62	3809280
+Row : 4 ,Column : 3 	Highest : 32719995
+GetUpProduct : 		40	73	23	71	4768360
+GetDownProduct : 		71	60	28	68	8111040
+GetLeftProduct : 		22	31	16	71	774752
+GetRightProduct : 		71	51	67	63	15284241
+GetDiagonalProduct : 	71	99	23	12	1940004
+Row : 4 ,Column : 4 	Highest : 32719995
+GetUpProduct : 		17	55	4	51	190740
+GetDownProduct : 		51	99	64	2	646272
+GetLeftProduct : 		31	16	71	51	1796016
+GetRightProduct : 		51	67	63	89	19159119
+GetDiagonalProduct : 	51	3	67	20	205020
+Row : 4 ,Column : 5 	Highest : 32719995
+GetUpProduct : 		81	79	60	67	25723980
+GetDownProduct : 		67	3	23	62	286626
+GetLeftProduct : 		16	71	51	67	3881712
+GetRightProduct : 		67	63	89	41	15402429
+GetDiagonalProduct : 	67	45	10	95	2864250
+Row : 4 ,Column : 6 	Highest : 32719995
+GetUpProduct : 		18	14	11	63	174636
+GetDownProduct : 		63	45	67	12	2279340
+GetLeftProduct : 		71	51	67	63	15284241
+GetRightProduct : 		63	89	41	92	21149604
+GetDiagonalProduct : 	63	2	26	63	206388
+Row : 4 ,Column : 7 	Highest : 32719995
+GetUpProduct : 		57	29	42	89	6178914
+GetDownProduct : 		89	2	10	20	35600
+GetLeftProduct : 		51	67	63	89	19159119
+GetRightProduct : 		89	41	92	36	12085488
+GetDiagonalProduct : 	89	44	38	94	13987952
+Row : 4 ,Column : 8 	Highest : 32719995
+GetUpProduct : 		60	93	69	41	15785820
+GetDownProduct : 		41	44	26	95	4455880
+GetLeftProduct : 		67	63	89	41	15402429
+GetRightProduct : 		41	92	36	54	7332768
+GetDiagonalProduct : 	41	75	40	39	4797000
+Row : 4 ,Column : 9 	Highest : 32719995
+GetUpProduct : 		87	71	24	92	13638816
+GetDownProduct : 		92	75	38	63	16518600
+GetLeftProduct : 		63	89	41	92	21149604
+GetRightProduct : 		92	36	54	22	3934656
+GetDiagonalProduct : 	92	33	67	63	12814956
+Row : 4 ,Column : 10 	Highest : 32719995
+GetUpProduct : 		17	40	68	36	1664640
+GetDownProduct : 		36	33	40	94	4466880
+GetLeftProduct : 		89	41	92	36	12085488
+GetRightProduct : 		36	54	22	40	1710720
+GetDiagonalProduct : 	36	53	59	8	900576
+Row : 4 ,Column : 11 	Highest : 32719995
+GetUpProduct : 		40	67	56	54	8104320
+GetDownProduct : 		54	53	67	39	7478406
+GetLeftProduct : 		41	92	36	54	7332768
+GetRightProduct : 		54	22	40	40	1900800
+GetDiagonalProduct : 	54	78	54	40	9097920
+Row : 4 ,Column : 12 	Highest : 32719995
+GetUpProduct : 		98	53	1	22	114268
+GetDownProduct : 		22	78	59	63	6378372
+GetLeftProduct : 		92	36	54	22	3934656
+GetRightProduct : 		22	40	40	28	985600
+GetDiagonalProduct : 	22	36	70	91	5045040
+Row : 4 ,Column : 13 	Highest : 32719995
+GetUpProduct : 		43	88	32	40	4843520
+GetDownProduct : 		40	36	54	8	622080
+GetLeftProduct : 		36	54	22	40	1710720
+GetRightProduct : 		40	40	28	66	2956800
+GetDiagonalProduct : 	40	84	66	66	14636160
+Row : 4 ,Column : 14 	Highest : 32719995
+GetUpProduct : 		69	30	56	40	4636800
+GetDownProduct : 		40	84	70	40	9408000
+GetLeftProduct : 		54	22	40	40	1900800
+GetRightProduct : 		40	28	66	33	2439360
+GetDiagonalProduct : 	40	20	18	49	705600
+Row : 4 ,Column : 15 	Highest : 32719995
+GetUpProduct : 		48	3	71	28	286272
+GetDownProduct : 		28	20	66	91	3363360
+GetLeftProduct : 		22	40	40	28	985600
+GetRightProduct : 		28	66	33	13	792792
+GetDiagonalProduct : 	28	35	38	94	3500560
+Row : 4 ,Column : 16 	Highest : 32719995
+GetUpProduct : 		4	49	37	66	478632
+GetDownProduct : 		66	35	18	66	2744280
+GetLeftProduct : 		40	40	28	66	2956800
+GetRightProduct : 		66	33	13	80	2265120
+GetDiagonalProduct : 	66	17	64	21	1507968
+Row : 4 ,Column : 17 	Highest : 32719995
+GetUpProduct : 		56	13	2	33	48048
+GetDownProduct : 		33	17	38	49	1044582
+GetLeftProduct : 		40	28	66	33	2439360
+Row : 4 ,Column : 18 	Highest : 32719995
+GetUpProduct : 		62	36	36	13	1044576
+GetDownProduct : 		13	12	64	94	938496
+GetLeftProduct : 		28	66	33	13	792792
+Row : 4 ,Column : 19 	Highest : 32719995
+GetUpProduct : 		0	65	91	80	0
+GetDownProduct : 		80	50	70	21	5880000
+GetLeftProduct : 		66	33	13	80	2265120
+Row : 5 ,Column : 0 	Highest : 32719995
+GetUpProduct : 		81	52	22	24	2223936
+GetDownProduct : 		24	32	67	24	1234944
+GetRightProduct : 		24	47	32	60	2165760
+GetDiagonalProduct : 	24	98	20	5	235200
+Row : 5 ,Column : 1 	Highest : 32719995
+GetUpProduct : 		49	70	31	47	4997510
+GetDownProduct : 		47	98	26	55	6586580
+GetRightProduct : 		47	32	60	99	8933760
+GetDiagonalProduct : 	47	81	68	66	17085816
+Row : 5 ,Column : 2 	Highest : 32719995
+GetUpProduct : 		31	95	16	32	1507840
+GetDownProduct : 		32	81	20	58	3006720
+GetRightProduct : 		32	60	99	3	570240
+GetDiagonalProduct : 	32	28	2	73	130816
+Row : 5 ,Column : 3 	Highest : 32719995
+GetUpProduct : 		73	23	71	60	7152540
+GetDownProduct : 		60	28	68	5	571200
+GetLeftProduct : 		24	47	32	60	2165760
+GetRightProduct : 		60	99	3	45	801900
+GetDiagonalProduct : 	60	64	62	99	23569920
+Row : 5 ,Column : 4 	Highest : 32719995
+GetUpProduct : 		55	4	51	99	1110780
+GetDownProduct : 		99	64	2	66	836352
+GetLeftProduct : 		47	32	60	99	8933760
+GetRightProduct : 		99	3	45	2	26730
+GetDiagonalProduct : 	99	23	12	26	710424
+Row : 5 ,Column : 5 	Highest : 32719995
+GetUpProduct : 		79	60	67	3	952740
+GetDownProduct : 		3	23	62	73	312294
+GetLeftProduct : 		32	60	99	3	570240
+GetRightProduct : 		3	45	2	44	11880
+GetDiagonalProduct : 	3	67	20	97	389940
+Row : 5 ,Column : 6 	Highest : 32719995
+GetUpProduct : 		14	11	63	45	436590
+GetDownProduct : 		45	67	12	99	3581820
+GetLeftProduct : 		60	99	3	45	801900
+GetRightProduct : 		45	2	44	75	297000
+GetDiagonalProduct : 	45	10	95	17	726750
+Row : 5 ,Column : 7 	Highest : 32719995
+GetUpProduct : 		29	42	89	2	216804
+GetDownProduct : 		2	10	20	26	10400
+GetLeftProduct : 		99	3	45	2	26730
+GetRightProduct : 		2	44	75	33	217800
+GetDiagonalProduct : 	2	26	63	78	255528
+Row : 5 ,Column : 8 	Highest : 32719995
+GetUpProduct : 		93	69	41	44	11576268
+GetDownProduct : 		44	26	95	97	10541960
+GetLeftProduct : 		3	45	2	44	11880
+GetRightProduct : 		44	75	33	53	5771700
+GetDiagonalProduct : 	44	38	94	78	12259104
+Row : 5 ,Column : 9 	Highest : 32719995
+GetUpProduct : 		71	24	92	75	11757600
+GetDownProduct : 		75	38	63	17	3052350
+GetLeftProduct : 		45	2	44	75	297000
+GetRightProduct : 		75	33	53	78	10231650
+GetDiagonalProduct : 	75	40	39	96	11232000
+Row : 5 ,Column : 10 	Highest : 32719995
+GetUpProduct : 		40	68	36	33	3231360
+GetDownProduct : 		33	40	94	78	9678240
+GetLeftProduct : 		2	44	75	33	217800
+GetRightProduct : 		33	53	78	36	4911192
+GetDiagonalProduct : 	33	67	63	83	11561319
+Row : 5 ,Column : 11 	Highest : 32719995
+GetUpProduct : 		67	56	54	53	10738224
+GetDownProduct : 		53	67	39	78	10802142
+GetLeftProduct : 		44	75	33	53	5771700
+GetRightProduct : 		53	78	36	84	12501216
+GetDiagonalProduct : 	53	59	8	14	350224
+Row : 5 ,Column : 12 	Highest : 32719995
+GetUpProduct : 		53	1	22	78	90948
+GetDownProduct : 		78	59	63	96	27832896
+GetLeftProduct : 		75	33	53	78	10231650
+GetRightProduct : 		78	36	84	20	4717440
+GetDiagonalProduct : 	78	54	40	88	14826240
+Row : 5 ,Column : 13 	Highest : 32719995
+GetUpProduct : 		88	32	40	36	4055040
+GetDownProduct : 		36	54	8	83	1290816
+GetLeftProduct : 		33	53	78	36	4911192
+GetRightProduct : 		36	84	20	35	2116800
+GetDiagonalProduct : 	36	70	91	34	7796880
+Row : 5 ,Column : 14 	Highest : 32719995
+GetUpProduct : 		30	56	40	84	5644800
+GetDownProduct : 		84	70	40	14	3292800
+GetLeftProduct : 		53	78	36	84	12501216
+GetRightProduct : 		84	20	35	17	999600
+GetDiagonalProduct : 	84	66	66	89	32565456
+Row : 5 ,Column : 15 	Highest : 32719995
+GetUpProduct : 		3	71	28	20	119280
+GetDownProduct : 		20	66	91	88	10570560
+GetLeftProduct : 		78	36	84	20	4717440
+GetRightProduct : 		20	35	17	12	142800
+GetDiagonalProduct : 	20	18	49	63	1111320
+Row : 5 ,Column : 16 	Highest : 32719995
+GetUpProduct : 		49	37	66	35	4188030
+GetDownProduct : 		35	18	66	34	1413720
+GetLeftProduct : 		36	84	20	35	2116800
+GetRightProduct : 		35	17	12	50	357000
+GetDiagonalProduct : 	35	38	94	72	9001440
+Row : 5 ,Column : 17 	Highest : 32719995
+GetUpProduct : 		13	2	33	17	14586
+GetDownProduct : 		17	38	49	89	2817206
+GetLeftProduct : 		84	20	35	17	999600
+Row : 5 ,Column : 18 	Highest : 32719995
+GetUpProduct : 		36	36	13	12	202176
+GetDownProduct : 		12	64	94	63	4548096
+GetLeftProduct : 		20	35	17	12	142800
+Row : 5 ,Column : 19 	Highest : 32719995
+GetUpProduct : 		65	91	80	50	23660000
+GetDownProduct : 		50	70	21	72	5292000
+GetLeftProduct : 		35	17	12	50	357000
+Row : 6 ,Column : 0 	Highest : 32719995
+GetUpProduct : 		52	22	24	32	878592
+GetDownProduct : 		32	67	24	21	1080576
+GetRightProduct : 		32	98	81	28	7112448
+GetDiagonalProduct : 	32	26	58	9	434304
+Row : 6 ,Column : 1 	Highest : 32719995
+GetUpProduct : 		70	31	47	98	9995020
+GetDownProduct : 		98	26	55	36	5045040
+GetRightProduct : 		98	81	28	64	14224896
+GetDiagonalProduct : 	98	20	5	75	735000
+Row : 6 ,Column : 2 	Highest : 32719995
+GetUpProduct : 		95	16	32	81	3939840
+GetDownProduct : 		81	20	58	23	2161080
+GetRightProduct : 		81	28	64	23	3338496
+GetDiagonalProduct : 	81	68	66	0	0
+Row : 6 ,Column : 3 	Highest : 32719995
+GetUpProduct : 		23	71	60	28	2743440
+GetDownProduct : 		28	68	5	9	85680
+GetLeftProduct : 		32	98	81	28	7112448
+GetRightProduct : 		28	64	23	67	2761472
+GetDiagonalProduct : 	28	2	73	76	310688
+Row : 6 ,Column : 4 	Highest : 32719995
+GetUpProduct : 		4	51	99	64	1292544
+GetDownProduct : 		64	2	66	75	633600
+GetLeftProduct : 		98	81	28	64	14224896
+GetRightProduct : 		64	23	67	10	986240
+GetDiagonalProduct : 	64	62	99	44	17284608
+Row : 6 ,Column : 5 	Highest : 32719995
+GetUpProduct : 		60	67	3	23	277380
+GetDownProduct : 		23	62	73	0	0
+GetLeftProduct : 		81	28	64	23	3338496
+GetRightProduct : 		23	67	10	26	400660
+GetDiagonalProduct : 	23	12	26	20	143520
+Row : 6 ,Column : 6 	Highest : 32719995
+GetUpProduct : 		11	63	45	67	2089395
+GetDownProduct : 		67	12	99	76	6049296
+GetLeftProduct : 		28	64	23	67	2761472
+GetRightProduct : 		67	10	26	38	661960
+GetDiagonalProduct : 	67	20	97	45	5849100
+Row : 6 ,Column : 7 	Highest : 32719995
+GetUpProduct : 		42	89	2	10	74760
+GetDownProduct : 		10	20	26	44	228800
+GetLeftProduct : 		64	23	67	10	986240
+GetRightProduct : 		10	26	38	40	395200
+GetDiagonalProduct : 	10	95	17	35	565250
+Row : 6 ,Column : 8 	Highest : 32719995
+GetUpProduct : 		69	41	44	26	3236376
+GetDownProduct : 		26	95	97	20	4791800
+GetLeftProduct : 		23	67	10	26	400660
+GetRightProduct : 		26	38	40	67	2647840
+GetDiagonalProduct : 	26	63	78	14	1788696
+Row : 6 ,Column : 9 	Highest : 32719995
+GetUpProduct : 		24	92	75	38	6292800
+GetDownProduct : 		38	63	17	45	1831410
+GetLeftProduct : 		67	10	26	38	661960
+GetRightProduct : 		38	40	67	59	6008560
+GetDiagonalProduct : 	38	94	78	0	0
+Row : 6 ,Column : 10 	Highest : 32719995
+GetUpProduct : 		68	36	33	40	3231360
+GetDownProduct : 		40	94	78	35	10264800
+GetLeftProduct : 		10	26	38	40	395200
+GetRightProduct : 		40	67	59	54	8538480
+GetDiagonalProduct : 	40	39	96	61	9135360
+Row : 6 ,Column : 11 	Highest : 32719995
+GetUpProduct : 		56	54	53	67	10738224
+GetDownProduct : 		67	39	78	14	2853396
+GetLeftProduct : 		26	38	40	67	2647840
+GetRightProduct : 		67	59	54	70	14942340
+GetDiagonalProduct : 	67	63	83	33	11561319
+Row : 6 ,Column : 12 	Highest : 32719995
+GetUpProduct : 		1	22	78	59	101244
+GetDownProduct : 		59	63	96	0	0
+GetLeftProduct : 		38	40	67	59	6008560
+GetRightProduct : 		59	54	70	66	14719320
+GetDiagonalProduct : 	59	8	14	97	640976
+Row : 6 ,Column : 13 	Highest : 32719995
+GetUpProduct : 		32	40	36	54	2488320
+GetDownProduct : 		54	8	83	61	2187216
+GetLeftProduct : 		40	67	59	54	8538480
+GetRightProduct : 		54	70	66	18	4490640
+GetDiagonalProduct : 	54	40	88	34	6462720
+Row : 6 ,Column : 14 	Highest : 32719995
+GetUpProduct : 		56	40	84	70	13171200
+GetDownProduct : 		70	40	14	33	1293600
+GetLeftProduct : 		67	59	54	70	14942340
+GetRightProduct : 		70	66	18	38	3160080
+GetDiagonalProduct : 	70	91	34	31	6713980
+Row : 6 ,Column : 15 	Highest : 32719995
+GetUpProduct : 		71	28	20	66	2624160
+GetDownProduct : 		66	91	88	97	51267216
+GetLeftProduct : 		59	54	70	66	14719320
+GetRightProduct : 		66	18	38	64	2889216
+GetDiagonalProduct : 	66	66	89	33	12793572
+Row : 6 ,Column : 16 	Highest : 51267216
+GetUpProduct : 		37	66	35	18	1538460
+GetDownProduct : 		18	66	34	34	1373328
+GetLeftProduct : 		54	70	66	18	4490640
+GetRightProduct : 		18	38	64	70	3064320
+GetDiagonalProduct : 	18	49	63	95	5278770
+Row : 6 ,Column : 17 	Highest : 51267216
+GetUpProduct : 		2	33	17	38	42636
+GetDownProduct : 		38	49	89	31	5137258
+GetLeftProduct : 		70	66	18	38	3160080
+Row : 6 ,Column : 18 	Highest : 51267216
+GetUpProduct : 		36	13	12	64	359424
+GetDownProduct : 		64	94	63	33	12507264
+GetLeftProduct : 		66	18	38	64	2889216
+Row : 6 ,Column : 19 	Highest : 51267216
+GetUpProduct : 		91	80	50	70	25480000
+GetDownProduct : 		70	21	72	95	10054800
+GetLeftProduct : 		18	38	64	70	3064320
+Row : 7 ,Column : 0 	Highest : 51267216
+GetUpProduct : 		22	24	32	67	1132032
+GetDownProduct : 		67	24	21	78	2633904
+GetRightProduct : 		67	26	20	68	2369120
+GetDiagonalProduct : 	67	55	23	28	2373140
+Row : 7 ,Column : 1 	Highest : 51267216
+GetUpProduct : 		31	47	98	26	3712436
+GetDownProduct : 		26	55	36	17	875160
+GetRightProduct : 		26	20	68	2	70720
+GetDiagonalProduct : 	26	58	9	22	298584
+Row : 7 ,Column : 2 	Highest : 51267216
+GetUpProduct : 		16	32	81	20	829440
+GetDownProduct : 		20	58	23	53	1414040
+GetRightProduct : 		20	68	2	62	168640
+GetDiagonalProduct : 	20	5	75	75	562500
+Row : 7 ,Column : 3 	Highest : 51267216
+GetUpProduct : 		71	60	28	68	8111040
+GetDownProduct : 		68	5	9	28	85680
+GetLeftProduct : 		67	26	20	68	2369120
+GetRightProduct : 		68	2	62	12	101184
+GetDiagonalProduct : 	68	66	0	31	0
+Row : 7 ,Column : 4 	Highest : 51267216
+GetUpProduct : 		51	99	64	2	646272
+GetDownProduct : 		2	66	75	22	217800
+GetLeftProduct : 		26	20	68	2	70720
+GetRightProduct : 		2	62	12	20	29760
+GetDiagonalProduct : 	2	73	76	67	743432
+Row : 7 ,Column : 5 	Highest : 51267216
+GetUpProduct : 		67	3	23	62	286626
+GetDownProduct : 		62	73	0	75	0
+GetLeftProduct : 		20	68	2	62	168640
+GetRightProduct : 		62	12	20	95	1413600
+GetDiagonalProduct : 	62	99	44	15	4051080
+Row : 7 ,Column : 6 	Highest : 51267216
+GetUpProduct : 		63	45	67	12	2279340
+GetDownProduct : 		12	99	76	31	2798928
+GetLeftProduct : 		68	2	62	12	101184
+GetRightProduct : 		12	20	95	63	1436400
+GetDiagonalProduct : 	12	26	20	94	586560
+Row : 7 ,Column : 7 	Highest : 51267216
+GetUpProduct : 		89	2	10	20	35600
+GetDownProduct : 		20	26	44	67	1532960
+GetLeftProduct : 		2	62	12	20	29760
+GetRightProduct : 		20	95	63	94	11251800
+GetDiagonalProduct : 	20	97	45	3	261900
+Row : 7 ,Column : 8 	Highest : 51267216
+GetUpProduct : 		41	44	26	95	4455880
+GetDownProduct : 		95	97	20	15	2764500
+GetLeftProduct : 		62	12	20	95	1413600
+GetRightProduct : 		95	63	94	39	21941010
+GetDiagonalProduct : 	95	17	35	80	4522000
+Row : 7 ,Column : 9 	Highest : 51267216
+GetUpProduct : 		92	75	38	63	16518600
+GetDownProduct : 		63	17	45	94	4530330
+GetLeftProduct : 		12	20	95	63	1436400
+GetRightProduct : 		63	94	39	63	14550354
+GetDiagonalProduct : 	63	78	14	4	275184
+Row : 7 ,Column : 10 	Highest : 51267216
+GetUpProduct : 		36	33	40	94	4466880
+GetDownProduct : 		94	78	35	3	769860
+GetLeftProduct : 		20	95	63	94	11251800
+GetRightProduct : 		94	39	63	8	1847664
+GetDiagonalProduct : 	94	78	0	62	0
+Row : 7 ,Column : 11 	Highest : 51267216
+GetUpProduct : 		54	53	67	39	7478406
+GetDownProduct : 		39	78	14	80	3407040
+GetLeftProduct : 		95	63	94	39	21941010
+GetRightProduct : 		39	63	8	40	786240
+GetDiagonalProduct : 	39	96	61	16	3654144
+Row : 7 ,Column : 12 	Highest : 51267216
+GetUpProduct : 		22	78	59	63	6378372
+GetDownProduct : 		63	96	0	4	0
+GetLeftProduct : 		63	94	39	63	14550354
+GetRightProduct : 		63	8	40	91	1834560
+GetDiagonalProduct : 	63	83	33	14	2415798
+Row : 7 ,Column : 13 	Highest : 51267216
+GetUpProduct : 		40	36	54	8	622080
+GetDownProduct : 		8	83	61	62	2511248
+GetLeftProduct : 		94	39	63	8	1847664
+GetRightProduct : 		8	40	91	66	1921920
+GetDiagonalProduct : 	8	14	97	9	97776
+Row : 7 ,Column : 14 	Highest : 51267216
+GetUpProduct : 		40	84	70	40	9408000
+GetDownProduct : 		40	14	33	16	295680
+GetLeftProduct : 		39	63	8	40	786240
+GetRightProduct : 		40	91	66	49	11771760
+GetDiagonalProduct : 	40	88	34	53	6343040
+Row : 7 ,Column : 15 	Highest : 51267216
+GetUpProduct : 		28	20	66	91	3363360
+GetDownProduct : 		91	88	97	14	10874864
+GetLeftProduct : 		63	8	40	91	1834560
+GetRightProduct : 		91	66	49	94	27663636
+GetDiagonalProduct : 	91	34	31	56	5371184
+Row : 7 ,Column : 16 	Highest : 51267216
+GetUpProduct : 		66	35	18	66	2744280
+GetDownProduct : 		66	34	34	9	686664
+GetLeftProduct : 		8	40	91	66	1921920
+GetRightProduct : 		66	49	94	21	6383916
+GetDiagonalProduct : 	66	89	33	92	17833464
+Row : 7 ,Column : 17 	Highest : 51267216
+GetUpProduct : 		33	17	38	49	1044582
+GetDownProduct : 		49	89	31	53	7165123
+GetLeftProduct : 		40	91	66	49	11771760
+Row : 7 ,Column : 18 	Highest : 51267216
+GetUpProduct : 		13	12	64	94	938496
+GetDownProduct : 		94	63	33	56	10943856
+GetLeftProduct : 		91	66	49	94	27663636
+Row : 7 ,Column : 19 	Highest : 51267216
+GetUpProduct : 		80	50	70	21	5880000
+GetDownProduct : 		21	72	95	92	13214880
+GetLeftProduct : 		66	49	94	21	6383916
+Row : 8 ,Column : 0 	Highest : 51267216
+GetUpProduct : 		24	32	67	24	1234944
+GetDownProduct : 		24	21	78	16	628992
+GetRightProduct : 		24	55	58	5	382800
+GetDiagonalProduct : 	24	36	53	42	1923264
+Row : 8 ,Column : 1 	Highest : 51267216
+GetUpProduct : 		47	98	26	55	6586580
+GetDownProduct : 		55	36	17	39	1312740
+GetRightProduct : 		55	58	5	66	1052700
+GetDiagonalProduct : 	55	23	28	96	3400320
+Row : 8 ,Column : 2 	Highest : 51267216
+GetUpProduct : 		32	81	20	58	3006720
+GetDownProduct : 		58	23	53	5	353510
+GetRightProduct : 		58	5	66	73	1397220
+GetDiagonalProduct : 	58	9	22	35	401940
+Row : 8 ,Column : 3 	Highest : 51267216
+GetUpProduct : 		60	28	68	5	571200
+GetDownProduct : 		5	9	28	42	52920
+GetLeftProduct : 		24	55	58	5	382800
+GetRightProduct : 		5	66	73	99	2384910
+GetDiagonalProduct : 	5	75	75	31	871875
+Row : 8 ,Column : 4 	Highest : 51267216
+GetUpProduct : 		99	64	2	66	836352
+GetDownProduct : 		66	75	22	96	10454400
+GetLeftProduct : 		55	58	5	66	1052700
+GetRightProduct : 		66	73	99	26	12401532
+GetDiagonalProduct : 	66	0	31	47	0
+Row : 8 ,Column : 5 	Highest : 51267216
+GetUpProduct : 		3	23	62	73	312294
+GetDownProduct : 		73	0	75	35	0
+GetLeftProduct : 		58	5	66	73	1397220
+GetRightProduct : 		73	99	26	97	18226494
+GetDiagonalProduct : 	73	76	67	55	20444380
+Row : 8 ,Column : 6 	Highest : 51267216
+GetUpProduct : 		45	67	12	99	3581820
+GetDownProduct : 		99	76	31	31	7230564
+GetLeftProduct : 		5	66	73	99	2384910
+GetRightProduct : 		99	26	97	17	4244526
+GetDiagonalProduct : 	99	44	15	58	3789720
+Row : 8 ,Column : 7 	Highest : 51267216
+GetUpProduct : 		2	10	20	26	10400
+GetDownProduct : 		26	44	67	47	3602456
+GetLeftProduct : 		66	73	99	26	12401532
+GetRightProduct : 		26	97	17	78	3344172
+GetDiagonalProduct : 	26	20	94	88	4301440
+Row : 8 ,Column : 8 	Highest : 51267216
+GetUpProduct : 		44	26	95	97	10541960
+GetDownProduct : 		97	20	15	55	1600500
+GetLeftProduct : 		73	99	26	97	18226494
+GetRightProduct : 		97	17	78	78	10032516
+GetDiagonalProduct : 	97	45	3	24	314280
+Row : 8 ,Column : 9 	Highest : 51267216
+GetUpProduct : 		75	38	63	17	3052350
+GetDownProduct : 		17	45	94	58	4170780
+GetLeftProduct : 		99	26	97	17	4244526
+GetRightProduct : 		17	78	78	96	9929088
+GetDiagonalProduct : 	17	35	80	0	0
+Row : 8 ,Column : 10 	Highest : 51267216
+GetUpProduct : 		33	40	94	78	9678240
+GetDownProduct : 		78	35	3	88	720720
+GetLeftProduct : 		26	97	17	78	3344172
+GetRightProduct : 		78	78	96	83	48477312
+GetDiagonalProduct : 	78	14	4	17	74256
+Row : 8 ,Column : 11 	Highest : 51267216
+GetUpProduct : 		53	67	39	78	10802142
+GetDownProduct : 		78	14	80	24	2096640
+GetLeftProduct : 		97	17	78	78	10032516
+GetRightProduct : 		78	96	83	14	8701056
+GetDiagonalProduct : 	78	0	62	54	0
+Row : 8 ,Column : 12 	Highest : 51267216
+GetUpProduct : 		78	59	63	96	27832896
+GetDownProduct : 		96	0	4	0	0
+GetLeftProduct : 		17	78	78	96	9929088
+GetRightProduct : 		96	83	14	88	9816576
+GetDiagonalProduct : 	96	61	16	24	2248704
+Row : 8 ,Column : 13 	Highest : 51267216
+GetUpProduct : 		36	54	8	83	1290816
+GetDownProduct : 		83	61	62	17	5336402
+GetLeftProduct : 		78	78	96	83	48477312
+GetRightProduct : 		83	14	88	34	3476704
+GetDiagonalProduct : 	83	33	14	36	1380456
+Row : 8 ,Column : 14 	Highest : 51267216
+GetUpProduct : 		84	70	40	14	3292800
+GetDownProduct : 		14	33	16	54	399168
+GetLeftProduct : 		78	96	83	14	8701056
+GetRightProduct : 		14	88	34	89	3728032
+GetDiagonalProduct : 	14	97	9	29	354438
+Row : 8 ,Column : 15 	Highest : 51267216
+GetUpProduct : 		20	66	91	88	10570560
+GetDownProduct : 		88	97	14	24	2868096
+GetLeftProduct : 		96	83	14	88	9816576
+GetRightProduct : 		88	34	89	63	16776144
+GetDiagonalProduct : 	88	34	53	85	13478960
+Row : 8 ,Column : 16 	Highest : 51267216
+GetUpProduct : 		35	18	66	34	1413720
+GetDownProduct : 		34	34	9	36	374544
+GetLeftProduct : 		83	14	88	34	3476704
+GetRightProduct : 		34	89	63	72	13725936
+GetDiagonalProduct : 	34	31	56	57	3364368
+Row : 8 ,Column : 17 	Highest : 51267216
+GetUpProduct : 		17	38	49	89	2817206
+GetDownProduct : 		89	31	53	29	4240583
+GetLeftProduct : 		14	88	34	89	3728032
+Row : 8 ,Column : 18 	Highest : 51267216
+GetUpProduct : 		12	64	94	63	4548096
+GetDownProduct : 		63	33	56	85	9896040
+GetLeftProduct : 		88	34	89	63	16776144
+Row : 8 ,Column : 19 	Highest : 51267216
+GetUpProduct : 		50	70	21	72	5292000
+GetDownProduct : 		72	95	92	57	35868960
+GetLeftProduct : 		34	89	63	72	13725936
+Row : 9 ,Column : 0 	Highest : 51267216
+GetUpProduct : 		32	67	24	21	1080576
+GetDownProduct : 		21	78	16	86	2253888
+GetRightProduct : 		21	36	23	9	156492
+GetDiagonalProduct : 	21	17	5	48	85680
+Row : 9 ,Column : 1 	Highest : 51267216
+GetUpProduct : 		98	26	55	36	5045040
+GetDownProduct : 		36	17	39	56	1336608
+GetRightProduct : 		36	23	9	75	558900
+GetDiagonalProduct : 	36	53	42	35	2804760
+Row : 9 ,Column : 2 	Highest : 51267216
+GetUpProduct : 		81	20	58	23	2161080
+GetDownProduct : 		23	53	5	0	0
+GetRightProduct : 		23	9	75	0	0
+GetDiagonalProduct : 	23	28	96	71	4389504
+Row : 9 ,Column : 3 	Highest : 51267216
+GetUpProduct : 		28	68	5	9	85680
+GetDownProduct : 		9	28	42	48	508032
+GetLeftProduct : 		21	36	23	9	156492
+GetRightProduct : 		9	75	0	76	0
+GetDiagonalProduct : 	9	22	35	89	616770
+Row : 9 ,Column : 4 	Highest : 51267216
+GetUpProduct : 		64	2	66	75	633600
+GetDownProduct : 		75	22	96	35	5544000
+GetLeftProduct : 		36	23	9	75	558900
+GetRightProduct : 		75	0	76	44	0
+GetDiagonalProduct : 	75	75	31	7	1220625
+Row : 9 ,Column : 5 	Highest : 51267216
+GetUpProduct : 		23	62	73	0	0
+GetDownProduct : 		0	75	35	71	0
+GetLeftProduct : 		23	9	75	0	0
+GetRightProduct : 		0	76	44	20	0
+GetDiagonalProduct : 	0	31	47	5	0
+Row : 9 ,Column : 6 	Highest : 51267216
+GetUpProduct : 		67	12	99	76	6049296
+GetDownProduct : 		76	31	31	89	6500204
+GetLeftProduct : 		9	75	0	76	0
+GetRightProduct : 		76	44	20	45	3009600
+GetDiagonalProduct : 	76	67	55	44	12322640
+Row : 9 ,Column : 7 	Highest : 51267216
+GetUpProduct : 		10	20	26	44	228800
+GetDownProduct : 		44	67	47	7	969892
+GetLeftProduct : 		75	0	76	44	0
+GetRightProduct : 		44	20	45	35	1386000
+GetDiagonalProduct : 	44	15	58	44	1684320
+Row : 9 ,Column : 8 	Highest : 51267216
+GetUpProduct : 		26	95	97	20	4791800
+GetDownProduct : 		20	15	55	5	82500
+GetLeftProduct : 		0	76	44	20	0
+GetRightProduct : 		20	45	35	14	441000
+GetDiagonalProduct : 	20	94	88	37	6121280
+Row : 9 ,Column : 9 	Highest : 51267216
+GetUpProduct : 		38	63	17	45	1831410
+GetDownProduct : 		45	94	58	44	10794960
+GetLeftProduct : 		76	44	20	45	3009600
+GetRightProduct : 		45	35	14	0	0
+GetDiagonalProduct : 	45	3	24	44	142560
+Row : 9 ,Column : 10 	Highest : 51267216
+GetUpProduct : 		40	94	78	35	10264800
+GetDownProduct : 		35	3	88	44	406560
+GetLeftProduct : 		44	20	45	35	1386000
+GetRightProduct : 		35	14	0	61	0
+GetDiagonalProduct : 	35	80	0	60	0
+Row : 9 ,Column : 11 	Highest : 51267216
+GetUpProduct : 		67	39	78	14	2853396
+GetDownProduct : 		14	80	24	37	994560
+GetLeftProduct : 		20	45	35	14	441000
+GetRightProduct : 		14	0	61	33	0
+GetDiagonalProduct : 	14	4	17	21	19992
+Row : 9 ,Column : 12 	Highest : 51267216
+GetUpProduct : 		59	63	96	0	0
+GetDownProduct : 		0	4	0	44	0
+GetLeftProduct : 		45	35	14	0	0
+GetRightProduct : 		0	61	33	97	0
+GetDiagonalProduct : 	0	62	54	58	0
+Row : 9 ,Column : 13 	Highest : 51267216
+GetUpProduct : 		54	8	83	61	2187216
+GetDownProduct : 		61	62	17	60	3857640
+GetLeftProduct : 		35	14	0	61	0
+GetRightProduct : 		61	33	97	34	6638874
+GetDiagonalProduct : 	61	16	24	51	1194624
+Row : 9 ,Column : 14 	Highest : 51267216
+GetUpProduct : 		70	40	14	33	1293600
+GetDownProduct : 		33	16	54	21	598752
+GetLeftProduct : 		14	0	61	33	0
+GetRightProduct : 		33	97	34	31	3373854
+GetDiagonalProduct : 	33	14	36	54	898128
+Row : 9 ,Column : 15 	Highest : 51267216
+GetUpProduct : 		66	91	88	97	51267216
+GetDownProduct : 		97	14	24	58	1890336
+GetLeftProduct : 		0	61	33	97	0
+GetRightProduct : 		97	34	31	33	3373854
+GetDiagonalProduct : 	97	9	29	17	430389
+Row : 9 ,Column : 16 	Highest : 51267216
+GetUpProduct : 		18	66	34	34	1373328
+GetDownProduct : 		34	9	36	51	561816
+GetLeftProduct : 		61	33	97	34	6638874
+GetRightProduct : 		34	31	33	95	3304290
+GetDiagonalProduct : 	34	53	85	58	8883860
+Row : 9 ,Column : 17 	Highest : 51267216
+GetUpProduct : 		38	49	89	31	5137258
+GetDownProduct : 		31	53	29	54	2572938
+GetLeftProduct : 		33	97	34	31	3373854
+Row : 9 ,Column : 18 	Highest : 51267216
+GetUpProduct : 		64	94	63	33	12507264
+GetDownProduct : 		33	56	85	17	2670360
+GetLeftProduct : 		97	34	31	33	3373854
+Row : 9 ,Column : 19 	Highest : 51267216
+GetUpProduct : 		70	21	72	95	10054800
+GetDownProduct : 		95	92	57	58	28894440
+GetLeftProduct : 		34	31	33	95	3304290
+Row : 10 ,Column : 0 	Highest : 51267216
+GetUpProduct : 		67	24	21	78	2633904
+GetDownProduct : 		78	16	86	19	2039232
+GetRightProduct : 		78	17	53	28	1967784
+GetDiagonalProduct : 	78	39	0	68	0
+Row : 10 ,Column : 1 	Highest : 51267216
+GetUpProduct : 		26	55	36	17	875160
+GetDownProduct : 		17	39	56	80	2970240
+GetRightProduct : 		17	53	28	22	555016
+GetDiagonalProduct : 	17	5	48	5	20400
+Row : 10 ,Column : 2 	Highest : 51267216
+GetUpProduct : 		20	58	23	53	1414040
+GetDownProduct : 		53	5	0	81	0
+GetRightProduct : 		53	28	22	75	2448600
+GetDiagonalProduct : 	53	42	35	94	7323540
+Row : 10 ,Column : 3 	Highest : 51267216
+GetUpProduct : 		68	5	9	28	85680
+GetDownProduct : 		28	42	48	68	3838464
+GetLeftProduct : 		78	17	53	28	1967784
+GetRightProduct : 		28	22	75	31	1432200
+GetDiagonalProduct : 	28	96	71	47	8969856
+Row : 10 ,Column : 4 	Highest : 51267216
+GetUpProduct : 		2	66	75	22	217800
+GetDownProduct : 		22	96	35	5	369600
+GetLeftProduct : 		17	53	28	22	555016
+GetRightProduct : 		22	75	31	67	3427050
+GetDiagonalProduct : 	22	35	89	69	4728570
+Row : 10 ,Column : 5 	Highest : 51267216
+GetUpProduct : 		62	73	0	75	0
+GetDownProduct : 		75	35	71	94	17519250
+GetLeftProduct : 		53	28	22	75	2448600
+GetRightProduct : 		75	31	67	15	2336625
+GetDiagonalProduct : 	75	31	7	28	455700
+Row : 10 ,Column : 6 	Highest : 51267216
+GetUpProduct : 		12	99	76	31	2798928
+GetDownProduct : 		31	31	89	47	4019863
+GetLeftProduct : 		28	22	75	31	1432200
+GetRightProduct : 		31	67	15	94	2928570
+GetDiagonalProduct : 	31	47	5	73	531805
+Row : 10 ,Column : 7 	Highest : 51267216
+GetUpProduct : 		20	26	44	67	1532960
+GetDownProduct : 		67	47	7	69	1520967
+GetLeftProduct : 		22	75	31	67	3427050
+GetRightProduct : 		67	15	94	3	283410
+GetDiagonalProduct : 	67	55	44	92	14916880
+Row : 10 ,Column : 8 	Highest : 51267216
+GetUpProduct : 		95	97	20	15	2764500
+GetDownProduct : 		15	55	5	28	115500
+GetLeftProduct : 		75	31	67	15	2336625
+GetRightProduct : 		15	94	3	80	338400
+GetDiagonalProduct : 	15	58	44	13	497640
+Row : 10 ,Column : 9 	Highest : 51267216
+GetUpProduct : 		63	17	45	94	4530330
+GetDownProduct : 		94	58	44	73	17511824
+GetLeftProduct : 		31	67	15	94	2928570
+GetRightProduct : 		94	3	80	4	90240
+GetDiagonalProduct : 	94	88	37	86	26321504
+Row : 10 ,Column : 10 	Highest : 51267216
+GetUpProduct : 		94	78	35	3	769860
+GetDownProduct : 		3	88	44	92	1068672
+GetLeftProduct : 		67	15	94	3	283410
+GetRightProduct : 		3	80	4	62	59520
+GetDiagonalProduct : 	3	24	44	52	164736
+Row : 10 ,Column : 11 	Highest : 51267216
+GetUpProduct : 		39	78	14	80	3407040
+GetDownProduct : 		80	24	37	13	923520
+GetLeftProduct : 		15	94	3	80	338400
+GetRightProduct : 		80	4	62	16	317440
+GetDiagonalProduct : 	80	0	60	17	0
+Row : 10 ,Column : 12 	Highest : 51267216
+GetUpProduct : 		63	96	0	4	0
+GetDownProduct : 		4	0	44	86	0
+GetLeftProduct : 		94	3	80	4	90240
+GetRightProduct : 		4	62	16	14	55552
+GetDiagonalProduct : 	4	17	21	77	109956
+Row : 10 ,Column : 13 	Highest : 51267216
+GetUpProduct : 		8	83	61	62	2511248
+GetDownProduct : 		62	17	60	52	3288480
+GetLeftProduct : 		3	80	4	62	59520
+GetRightProduct : 		62	16	14	9	124992
+GetDiagonalProduct : 	62	54	58	4	776736
+Row : 10 ,Column : 14 	Highest : 51267216
+GetUpProduct : 		40	14	33	16	295680
+GetDownProduct : 		16	54	21	17	308448
+GetLeftProduct : 		80	4	62	16	317440
+GetRightProduct : 		16	14	9	53	106848
+GetDiagonalProduct : 	16	24	51	89	1742976
+Row : 10 ,Column : 15 	Highest : 51267216
+GetUpProduct : 		91	88	97	14	10874864
+GetDownProduct : 		14	24	58	77	1500576
+GetLeftProduct : 		4	62	16	14	55552
+GetRightProduct : 		14	9	53	56	373968
+GetDiagonalProduct : 	14	36	54	55	1496880
+Row : 10 ,Column : 16 	Highest : 51267216
+GetUpProduct : 		66	34	34	9	686664
+GetDownProduct : 		9	36	51	4	66096
+GetLeftProduct : 		62	16	14	9	124992
+GetRightProduct : 		9	53	56	92	2457504
+GetDiagonalProduct : 	9	29	17	40	177480
+Row : 10 ,Column : 17 	Highest : 51267216
+GetUpProduct : 		49	89	31	53	7165123
+GetDownProduct : 		53	29	54	89	7386822
+GetLeftProduct : 		16	14	9	53	106848
+Row : 10 ,Column : 18 	Highest : 51267216
+GetUpProduct : 		94	63	33	56	10943856
+GetDownProduct : 		56	85	17	55	4450600
+GetLeftProduct : 		14	9	53	56	373968
+Row : 10 ,Column : 19 	Highest : 51267216
+GetUpProduct : 		21	72	95	92	13214880
+GetDownProduct : 		92	57	58	40	12166080
+GetLeftProduct : 		9	53	56	92	2457504
+Row : 11 ,Column : 0 	Highest : 51267216
+GetUpProduct : 		24	21	78	16	628992
+GetDownProduct : 		16	86	19	4	104576
+GetRightProduct : 		16	39	5	42	131040
+GetDiagonalProduct : 	16	56	81	83	6023808
+Row : 11 ,Column : 1 	Highest : 51267216
+GetUpProduct : 		55	36	17	39	1312740
+GetDownProduct : 		39	56	80	52	9085440
+GetRightProduct : 		39	5	42	96	786240
+GetDiagonalProduct : 	39	0	68	97	0
+Row : 11 ,Column : 2 	Highest : 51267216
+GetUpProduct : 		58	23	53	5	353510
+GetDownProduct : 		5	0	81	8	0
+GetRightProduct : 		5	42	96	35	705600
+GetDiagonalProduct : 	5	48	5	35	42000
+Row : 11 ,Column : 3 	Highest : 51267216
+GetUpProduct : 		5	9	28	42	52920
+GetDownProduct : 		42	48	68	83	11378304
+GetLeftProduct : 		16	39	5	42	131040
+GetRightProduct : 		42	96	35	31	4374720
+GetDiagonalProduct : 	42	35	94	99	13679820
+Row : 11 ,Column : 4 	Highest : 51267216
+GetUpProduct : 		66	75	22	96	10454400
+GetDownProduct : 		96	35	5	97	1629600
+GetLeftProduct : 		39	5	42	96	786240
+GetRightProduct : 		96	35	31	47	4895520
+GetDiagonalProduct : 	96	71	47	16	5125632
+Row : 11 ,Column : 5 	Highest : 51267216
+GetUpProduct : 		73	0	75	35	0
+GetDownProduct : 		35	71	94	35	8175650
+GetLeftProduct : 		5	42	96	35	705600
+GetRightProduct : 		35	31	47	55	2804725
+GetDiagonalProduct : 	35	89	69	7	1504545
+Row : 11 ,Column : 6 	Highest : 51267216
+GetUpProduct : 		99	76	31	31	7230564
+GetDownProduct : 		31	89	47	99	12837627
+GetLeftProduct : 		42	96	35	31	4374720
+GetRightProduct : 		31	47	55	58	4647830
+GetDiagonalProduct : 	31	7	28	97	589372
+Row : 11 ,Column : 7 	Highest : 51267216
+GetUpProduct : 		26	44	67	47	3602456
+GetDownProduct : 		47	7	69	16	363216
+GetLeftProduct : 		96	35	31	47	4895520
+GetRightProduct : 		47	55	58	88	13193840
+GetDiagonalProduct : 	47	5	73	57	977835
+Row : 11 ,Column : 8 	Highest : 51267216
+GetUpProduct : 		97	20	15	55	1600500
+GetDownProduct : 		55	5	28	7	53900
+GetLeftProduct : 		35	31	47	55	2804725
+GetRightProduct : 		55	58	88	24	6737280
+GetDiagonalProduct : 	55	44	92	32	7124480
+Row : 11 ,Column : 9 	Highest : 51267216
+GetUpProduct : 		17	45	94	58	4170780
+GetDownProduct : 		58	44	73	97	18070712
+GetLeftProduct : 		31	47	55	58	4647830
+GetRightProduct : 		58	88	24	0	0
+GetDiagonalProduct : 	58	44	13	16	530816
+Row : 11 ,Column : 10 	Highest : 51267216
+GetUpProduct : 		78	35	3	88	720720
+GetDownProduct : 		88	44	92	57	20304768
+GetLeftProduct : 		47	55	58	88	13193840
+GetRightProduct : 		88	24	0	17	0
+GetDiagonalProduct : 	88	37	86	26	7280416
+Row : 11 ,Column : 11 	Highest : 51267216
+GetUpProduct : 		78	14	80	24	2096640
+GetDownProduct : 		24	37	13	32	369408
+GetLeftProduct : 		55	58	88	24	6737280
+GetRightProduct : 		24	0	17	54	0
+GetDiagonalProduct : 	24	44	52	26	1427712
+Row : 11 ,Column : 12 	Highest : 51267216
+GetUpProduct : 		96	0	4	0	0
+GetDownProduct : 		0	44	86	16	0
+GetLeftProduct : 		58	88	24	0	0
+GetRightProduct : 		0	17	54	24	0
+GetDiagonalProduct : 	0	60	17	79	0
+Row : 11 ,Column : 13 	Highest : 51267216
+GetUpProduct : 		83	61	62	17	5336402
+GetDownProduct : 		17	60	52	26	1379040
+GetLeftProduct : 		88	24	0	17	0
+GetRightProduct : 		17	54	24	36	793152
+GetDiagonalProduct : 	17	21	77	33	907137
+Row : 11 ,Column : 14 	Highest : 51267216
+GetUpProduct : 		14	33	16	54	399168
+GetDownProduct : 		54	21	17	26	501228
+GetLeftProduct : 		24	0	17	54	0
+GetRightProduct : 		54	24	36	29	1353024
+GetDiagonalProduct : 	54	58	4	27	338256
+Row : 11 ,Column : 15 	Highest : 51267216
+GetUpProduct : 		88	97	14	24	2868096
+GetDownProduct : 		24	58	77	79	8467536
+GetLeftProduct : 		0	17	54	24	0
+GetRightProduct : 		24	36	29	85	2129760
+GetDiagonalProduct : 	24	51	89	98	10675728
+Row : 11 ,Column : 16 	Highest : 51267216
+GetUpProduct : 		34	34	9	36	374544
+GetDownProduct : 		36	51	4	33	242352
+GetLeftProduct : 		17	54	24	36	793152
+GetRightProduct : 		36	29	85	57	5058180
+GetDiagonalProduct : 	36	54	55	66	7056720
+Row : 11 ,Column : 17 	Highest : 51267216
+GetUpProduct : 		89	31	53	29	4240583
+GetDownProduct : 		29	54	89	27	3763098
+GetLeftProduct : 		54	24	36	29	1353024
+Row : 11 ,Column : 18 	Highest : 51267216
+GetUpProduct : 		63	33	56	85	9896040
+GetDownProduct : 		85	17	55	98	7788550
+GetLeftProduct : 		24	36	29	85	2129760
+Row : 11 ,Column : 19 	Highest : 51267216
+GetUpProduct : 		72	95	92	57	35868960
+GetDownProduct : 		57	58	40	66	8727840
+GetLeftProduct : 		36	29	85	57	5058180
+Row : 12 ,Column : 0 	Highest : 51267216
+GetUpProduct : 		21	78	16	86	2253888
+GetDownProduct : 		86	19	4	88	575168
+GetRightProduct : 		86	56	0	48	0
+GetDiagonalProduct : 	86	80	8	87	4788480
+Row : 12 ,Column : 1 	Highest : 51267216
+GetUpProduct : 		36	17	39	56	1336608
+GetDownProduct : 		56	80	52	36	8386560
+GetRightProduct : 		56	0	48	35	0
+GetDiagonalProduct : 	56	81	83	57	21459816
+Row : 12 ,Column : 2 	Highest : 51267216
+GetUpProduct : 		23	53	5	0	0
+GetDownProduct : 		0	81	8	68	0
+GetRightProduct : 		0	48	35	71	0
+GetDiagonalProduct : 	0	68	97	62	0
+Row : 12 ,Column : 3 	Highest : 51267216
+GetUpProduct : 		9	28	42	48	508032
+GetDownProduct : 		48	68	83	87	23569344
+GetLeftProduct : 		86	56	0	48	0
+GetRightProduct : 		48	35	71	89	10615920
+GetDiagonalProduct : 	48	5	35	20	168000
+Row : 12 ,Column : 4 	Highest : 51267216
+GetUpProduct : 		75	22	96	35	5544000
+GetDownProduct : 		35	5	97	57	967575
+GetLeftProduct : 		56	0	48	35	0
+GetRightProduct : 		35	71	89	7	1548155
+GetDiagonalProduct : 	35	94	99	72	23451120
+Row : 12 ,Column : 5 	Highest : 51267216
+GetUpProduct : 		0	75	35	71	0
+GetDownProduct : 		71	94	35	62	14482580
+GetLeftProduct : 		0	48	35	71	0
+GetRightProduct : 		71	89	7	5	221165
+GetDiagonalProduct : 	71	47	16	3	160176
+Row : 12 ,Column : 6 	Highest : 51267216
+GetUpProduct : 		76	31	31	89	6500204
+GetDownProduct : 		89	47	99	20	8282340
+GetLeftProduct : 		48	35	71	89	10615920
+GetRightProduct : 		89	7	5	44	137060
+GetDiagonalProduct : 	89	69	7	46	1977402
+Row : 12 ,Column : 7 	Highest : 51267216
+GetUpProduct : 		44	67	47	7	969892
+GetDownProduct : 		7	69	16	72	556416
+GetLeftProduct : 		35	71	89	7	1548155
+GetRightProduct : 		7	5	44	44	67760
+GetDiagonalProduct : 	7	28	97	33	627396
+Row : 12 ,Column : 8 	Highest : 51267216
+GetUpProduct : 		20	15	55	5	82500
+GetDownProduct : 		5	28	7	3	2940
+GetLeftProduct : 		71	89	7	5	221165
+GetRightProduct : 		5	44	44	37	358160
+GetDiagonalProduct : 	5	73	57	67	1393935
+Row : 12 ,Column : 9 	Highest : 51267216
+GetUpProduct : 		45	94	58	44	10794960
+GetDownProduct : 		44	73	97	46	14331944
+GetLeftProduct : 		89	7	5	44	137060
+GetRightProduct : 		44	44	37	44	3151808
+GetDiagonalProduct : 	44	92	32	46	5958656
+Row : 12 ,Column : 10 	Highest : 51267216
+GetUpProduct : 		35	3	88	44	406560
+GetDownProduct : 		44	92	57	33	7614288
+GetLeftProduct : 		7	5	44	44	67760
+GetRightProduct : 		44	37	44	60	4297920
+GetDiagonalProduct : 	44	13	16	55	503360
+Row : 12 ,Column : 11 	Highest : 51267216
+GetUpProduct : 		14	80	24	37	994560
+GetDownProduct : 		37	13	32	67	1031264
+GetLeftProduct : 		5	44	44	37	358160
+GetRightProduct : 		37	44	60	21	2051280
+GetDiagonalProduct : 	37	86	26	12	992784
+Row : 12 ,Column : 12 	Highest : 51267216
+GetUpProduct : 		0	4	0	44	0
+GetDownProduct : 		44	86	16	46	2785024
+GetLeftProduct : 		44	44	37	44	3151808
+GetRightProduct : 		44	60	21	58	3215520
+GetDiagonalProduct : 	44	52	26	32	1903616
+Row : 12 ,Column : 13 	Highest : 51267216
+GetUpProduct : 		61	62	17	60	3857640
+GetDownProduct : 		60	52	26	55	4461600
+GetLeftProduct : 		44	37	44	60	4297920
+GetRightProduct : 		60	21	58	51	3727080
+GetDiagonalProduct : 	60	17	79	63	5076540
+Row : 12 ,Column : 14 	Highest : 51267216
+GetUpProduct : 		33	16	54	21	598752
+GetDownProduct : 		21	17	26	12	111384
+GetLeftProduct : 		37	44	60	21	2051280
+GetRightProduct : 		21	58	51	54	3354372
+GetDiagonalProduct : 	21	77	33	93	4962573
+Row : 12 ,Column : 15 	Highest : 51267216
+GetUpProduct : 		97	14	24	58	1890336
+GetDownProduct : 		58	77	79	32	11290048
+GetLeftProduct : 		44	60	21	58	3215520
+GetRightProduct : 		58	51	54	17	2715444
+GetDiagonalProduct : 	58	4	27	53	331992
+Row : 12 ,Column : 16 	Highest : 51267216
+GetUpProduct : 		34	9	36	51	561816
+GetDownProduct : 		51	4	33	63	424116
+GetLeftProduct : 		60	21	58	51	3727080
+GetRightProduct : 		51	54	17	58	2715444
+GetDiagonalProduct : 	51	89	98	69	30692718
+Row : 12 ,Column : 17 	Highest : 51267216
+GetUpProduct : 		31	53	29	54	2572938
+GetDownProduct : 		54	89	27	93	12067866
+GetLeftProduct : 		21	58	51	54	3354372
+Row : 12 ,Column : 18 	Highest : 51267216
+GetUpProduct : 		33	56	85	17	2670360
+GetDownProduct : 		17	55	98	53	4856390
+GetLeftProduct : 		58	51	54	17	2715444
+Row : 12 ,Column : 19 	Highest : 51267216
+GetUpProduct : 		95	92	57	58	28894440
+GetDownProduct : 		58	40	66	69	10565280
+GetLeftProduct : 		51	54	17	58	2715444
+Row : 13 ,Column : 0 	Highest : 51267216
+GetUpProduct : 		78	16	86	19	2039232
+GetDownProduct : 		19	4	88	4	26752
+GetRightProduct : 		19	80	81	68	8372160
+GetDiagonalProduct : 	19	52	68	73	4904432
+Row : 13 ,Column : 1 	Highest : 51267216
+GetUpProduct : 		17	39	56	80	2970240
+GetDownProduct : 		80	52	36	42	6289920
+GetRightProduct : 		80	81	68	5	2203200
+GetDiagonalProduct : 	80	8	87	38	2115840
+Row : 13 ,Column : 2 	Highest : 51267216
+GetUpProduct : 		53	5	0	81	0
+GetDownProduct : 		81	8	68	16	705024
+GetRightProduct : 		81	68	5	94	2588760
+GetDiagonalProduct : 	81	83	57	25	9580275
+Row : 13 ,Column : 3 	Highest : 51267216
+GetUpProduct : 		28	42	48	68	3838464
+GetDownProduct : 		68	83	87	73	35845044
+GetLeftProduct : 		19	80	81	68	8372160
+GetRightProduct : 		68	5	94	47	1502120
+GetDiagonalProduct : 	68	97	62	39	15949128
+Row : 13 ,Column : 4 	Highest : 51267216
+GetUpProduct : 		22	96	35	5	369600
+GetDownProduct : 		5	97	57	38	1050510
+GetLeftProduct : 		80	81	68	5	2203200
+GetRightProduct : 		5	94	47	69	1524210
+GetDiagonalProduct : 	5	35	20	11	38500
+Row : 13 ,Column : 5 	Highest : 51267216
+GetUpProduct : 		75	35	71	94	17519250
+GetDownProduct : 		94	35	62	25	5099500
+GetLeftProduct : 		81	68	5	94	2588760
+GetRightProduct : 		94	47	69	28	8535576
+GetDiagonalProduct : 	94	99	72	24	16080768
+Row : 13 ,Column : 6 	Highest : 51267216
+GetUpProduct : 		31	31	89	47	4019863
+GetDownProduct : 		47	99	20	39	3629340
+GetLeftProduct : 		68	5	94	47	1502120
+GetRightProduct : 		47	69	28	73	6628692
+GetDiagonalProduct : 	47	16	3	94	212064
+Row : 13 ,Column : 7 	Highest : 51267216
+GetUpProduct : 		67	47	7	69	1520967
+GetDownProduct : 		69	16	72	11	874368
+GetLeftProduct : 		5	94	47	69	1524210
+GetRightProduct : 		69	28	73	92	12975312
+GetDiagonalProduct : 	69	7	46	72	1599696
+Row : 13 ,Column : 8 	Highest : 51267216
+GetUpProduct : 		15	55	5	28	115500
+GetDownProduct : 		28	7	3	24	14112
+GetLeftProduct : 		94	47	69	28	8535576
+GetRightProduct : 		28	73	92	13	2444624
+GetDiagonalProduct : 	28	97	33	18	1613304
+Row : 13 ,Column : 9 	Highest : 51267216
+GetUpProduct : 		94	58	44	73	17511824
+GetDownProduct : 		73	97	46	94	30618244
+GetLeftProduct : 		47	69	28	73	6628692
+GetRightProduct : 		73	92	13	86	7508488
+GetDiagonalProduct : 	73	57	67	8	2230296
+Row : 13 ,Column : 10 	Highest : 51267216
+GetUpProduct : 		3	88	44	92	1068672
+GetDownProduct : 		92	57	33	72	12459744
+GetLeftProduct : 		69	28	73	92	12975312
+GetRightProduct : 		92	13	86	52	5348512
+GetDiagonalProduct : 	92	32	46	46	6229504
+Row : 13 ,Column : 11 	Highest : 51267216
+GetUpProduct : 		80	24	37	13	923520
+GetDownProduct : 		13	32	67	18	501696
+GetLeftProduct : 		28	73	92	13	2444624
+GetRightProduct : 		13	86	52	17	988312
+GetDiagonalProduct : 	13	16	55	29	331760
+Row : 13 ,Column : 12 	Highest : 51267216
+GetUpProduct : 		4	0	44	86	0
+GetDownProduct : 		86	16	46	8	506368
+GetLeftProduct : 		73	92	13	86	7508488
+GetRightProduct : 		86	52	17	77	5853848
+GetDiagonalProduct : 	86	26	12	32	858624
+Row : 13 ,Column : 13 	Highest : 51267216
+GetUpProduct : 		62	17	60	52	3288480
+GetDownProduct : 		52	26	55	46	3420560
+GetLeftProduct : 		92	13	86	52	5348512
+GetRightProduct : 		52	17	77	4	272272
+GetDiagonalProduct : 	52	26	32	40	1730560
+Row : 13 ,Column : 14 	Highest : 51267216
+GetUpProduct : 		16	54	21	17	308448
+GetDownProduct : 		17	26	12	29	153816
+GetLeftProduct : 		13	86	52	17	988312
+GetRightProduct : 		17	77	4	89	466004
+GetDiagonalProduct : 	17	79	63	62	5245758
+Row : 13 ,Column : 15 	Highest : 51267216
+GetUpProduct : 		14	24	58	77	1500576
+GetDownProduct : 		77	79	32	32	6228992
+GetLeftProduct : 		86	52	17	77	5853848
+GetRightProduct : 		77	4	89	55	1507660
+GetDiagonalProduct : 	77	33	93	76	17959788
+Row : 13 ,Column : 16 	Highest : 51267216
+GetUpProduct : 		9	36	51	4	66096
+GetDownProduct : 		4	33	63	40	332640
+GetLeftProduct : 		52	17	77	4	272272
+GetRightProduct : 		4	89	55	40	783200
+GetDiagonalProduct : 	4	27	53	36	206064
+Row : 13 ,Column : 17 	Highest : 51267216
+GetUpProduct : 		53	29	54	89	7386822
+GetDownProduct : 		89	27	93	62	13855698
+GetLeftProduct : 		17	77	4	89	466004
+Row : 13 ,Column : 18 	Highest : 51267216
+GetUpProduct : 		56	85	17	55	4450600
+GetDownProduct : 		55	98	53	76	21710920
+GetLeftProduct : 		77	4	89	55	1507660
+Row : 13 ,Column : 19 	Highest : 51267216
+GetUpProduct : 		92	57	58	40	12166080
+GetDownProduct : 		40	66	69	36	6557760
+GetLeftProduct : 		4	89	55	40	783200
+Row : 14 ,Column : 0 	Highest : 51267216
+GetUpProduct : 		16	86	19	4	104576
+GetDownProduct : 		4	88	4	20	28160
+GetRightProduct : 		4	52	8	83	138112
+GetDiagonalProduct : 	4	36	16	41	94464
+Row : 14 ,Column : 1 	Highest : 51267216
+GetUpProduct : 		39	56	80	52	9085440
+GetDownProduct : 		52	36	42	69	5425056
+GetRightProduct : 		52	8	83	97	3349216
+GetDiagonalProduct : 	52	68	73	72	18585216
+Row : 14 ,Column : 2 	Highest : 51267216
+GetUpProduct : 		5	0	81	8	0
+GetDownProduct : 		8	68	16	36	313344
+GetRightProduct : 		8	83	97	35	2254280
+GetDiagonalProduct : 	8	87	38	30	793440
+Row : 14 ,Column : 3 	Highest : 51267216
+GetUpProduct : 		42	48	68	83	11378304
+GetDownProduct : 		83	87	73	41	21612453
+GetLeftProduct : 		4	52	8	83	138112
+GetRightProduct : 		83	97	35	99	27896715
+GetDiagonalProduct : 	83	57	25	23	2720325
+Row : 14 ,Column : 4 	Highest : 51267216
+GetUpProduct : 		96	35	5	97	1629600
+GetDownProduct : 		97	57	38	72	15127344
+GetLeftProduct : 		52	8	83	97	3349216
+GetRightProduct : 		97	35	99	16	5377680
+GetDiagonalProduct : 	97	62	39	88	20640048
+Row : 14 ,Column : 5 	Highest : 51267216
+GetUpProduct : 		35	71	94	35	8175650
+GetDownProduct : 		35	62	25	30	1627500
+GetLeftProduct : 		8	83	97	35	2254280
+GetRightProduct : 		35	99	16	7	388080
+GetDiagonalProduct : 	35	20	11	34	261800
+Row : 14 ,Column : 6 	Highest : 51267216
+GetUpProduct : 		31	89	47	99	12837627
+GetDownProduct : 		99	20	39	23	1776060
+GetLeftProduct : 		83	97	35	99	27896715
+GetRightProduct : 		99	16	7	97	1075536
+GetDiagonalProduct : 	99	72	24	62	10606464
+Row : 14 ,Column : 7 	Highest : 51267216
+GetUpProduct : 		47	7	69	16	363216
+GetDownProduct : 		16	72	11	88	1115136
+GetLeftProduct : 		97	35	99	16	5377680
+GetRightProduct : 		16	7	97	57	619248
+GetDiagonalProduct : 	16	3	94	99	446688
+Row : 14 ,Column : 8 	Highest : 51267216
+GetUpProduct : 		55	5	28	7	53900
+GetDownProduct : 		7	3	24	34	17136
+GetLeftProduct : 		35	99	16	7	388080
+GetRightProduct : 		7	97	57	32	1238496
+GetDiagonalProduct : 	7	46	72	69	1599696
+Row : 14 ,Column : 9 	Highest : 51267216
+GetUpProduct : 		58	44	73	97	18070712
+GetDownProduct : 		97	46	94	62	26004536
+GetLeftProduct : 		99	16	7	97	1075536
+GetRightProduct : 		97	57	32	16	2830848
+GetDiagonalProduct : 	97	33	18	82	4724676
+Row : 14 ,Column : 10 	Highest : 51267216
+GetUpProduct : 		88	44	92	57	20304768
+GetDownProduct : 		57	33	72	99	13407768
+GetLeftProduct : 		16	7	97	57	619248
+GetRightProduct : 		57	32	16	26	758784
+GetDiagonalProduct : 	57	67	8	67	2046984
+Row : 14 ,Column : 11 	Highest : 51267216
+GetUpProduct : 		24	37	13	32	369408
+GetDownProduct : 		32	67	18	69	2662848
+GetLeftProduct : 		7	97	57	32	1238496
+GetRightProduct : 		32	16	26	26	346112
+GetDiagonalProduct : 	32	46	46	59	3995008
+Row : 14 ,Column : 12 	Highest : 51267216
+GetUpProduct : 		0	44	86	16	0
+GetDownProduct : 		16	46	8	82	482816
+GetLeftProduct : 		97	57	32	16	2830848
+GetRightProduct : 		16	26	26	79	854464
+GetDiagonalProduct : 	16	55	29	85	2169200
+Row : 14 ,Column : 13 	Highest : 51267216
+GetUpProduct : 		17	60	52	26	1379040
+GetDownProduct : 		26	55	46	67	4407260
+GetLeftProduct : 		57	32	16	26	758784
+GetRightProduct : 		26	26	79	33	1762332
+GetDiagonalProduct : 	26	12	32	74	738816
+Row : 14 ,Column : 14 	Highest : 51267216
+GetUpProduct : 		54	21	17	26	501228
+GetDownProduct : 		26	12	29	59	533832
+GetLeftProduct : 		32	16	26	26	346112
+GetRightProduct : 		26	79	33	27	1830114
+GetDiagonalProduct : 	26	32	40	4	133120
+Row : 14 ,Column : 15 	Highest : 51267216
+GetUpProduct : 		24	58	77	79	8467536
+GetDownProduct : 		79	32	32	85	6876160
+GetLeftProduct : 		16	26	26	79	854464
+GetRightProduct : 		79	33	27	98	6898122
+GetDiagonalProduct : 	79	63	62	36	11108664
+Row : 14 ,Column : 16 	Highest : 51267216
+GetUpProduct : 		36	51	4	33	242352
+GetDownProduct : 		33	63	40	74	6153840
+GetLeftProduct : 		26	26	79	33	1762332
+GetRightProduct : 		33	27	98	66	5762988
+GetDiagonalProduct : 	33	93	76	16	3731904
+Row : 14 ,Column : 17 	Highest : 51267216
+GetUpProduct : 		29	54	89	27	3763098
+GetDownProduct : 		27	93	62	4	622728
+GetLeftProduct : 		26	79	33	27	1830114
+Row : 14 ,Column : 18 	Highest : 51267216
+GetUpProduct : 		85	17	55	98	7788550
+GetDownProduct : 		98	53	76	36	14210784
+GetLeftProduct : 		79	33	27	98	6898122
+Row : 14 ,Column : 19 	Highest : 51267216
+GetUpProduct : 		57	58	40	66	8727840
+GetDownProduct : 		66	69	36	16	2623104
+GetLeftProduct : 		33	27	98	66	5762988
+Row : 15 ,Column : 0 	Highest : 51267216
+GetUpProduct : 		86	19	4	88	575168
+GetDownProduct : 		88	4	20	20	140800
+GetRightProduct : 		88	36	68	87	18741888
+GetDiagonalProduct : 	88	42	36	29	3858624
+Row : 15 ,Column : 1 	Highest : 51267216
+GetUpProduct : 		56	80	52	36	8386560
+GetDownProduct : 		36	42	69	73	7615944
+GetRightProduct : 		36	68	87	57	12139632
+GetDiagonalProduct : 	36	16	41	78	1842048
+Row : 15 ,Column : 2 	Highest : 51267216
+GetUpProduct : 		0	81	8	68	0
+GetDownProduct : 		68	16	36	35	1370880
+GetRightProduct : 		68	87	57	62	20907144
+GetDiagonalProduct : 	68	73	72	31	11079648
+Row : 15 ,Column : 3 	Highest : 51267216
+GetUpProduct : 		48	68	83	87	23569344
+GetDownProduct : 		87	73	41	29	7551339
+GetLeftProduct : 		88	36	68	87	18741888
+GetRightProduct : 		87	57	62	20	6149160
+GetDiagonalProduct : 	87	38	30	90	8926200
+Row : 15 ,Column : 4 	Highest : 51267216
+GetUpProduct : 		35	5	97	57	967575
+GetDownProduct : 		57	38	72	78	12164256
+GetLeftProduct : 		36	68	87	57	12139632
+GetRightProduct : 		57	62	20	72	5088960
+GetDiagonalProduct : 	57	25	23	1	32775
+Row : 15 ,Column : 5 	Highest : 51267216
+GetUpProduct : 		71	94	35	62	14482580
+GetDownProduct : 		62	25	30	31	1441500
+GetLeftProduct : 		68	87	57	62	20907144
+GetRightProduct : 		62	20	72	3	267840
+GetDiagonalProduct : 	62	39	88	74	15746016
+Row : 15 ,Column : 6 	Highest : 51267216
+GetUpProduct : 		89	47	99	20	8282340
+GetDownProduct : 		20	39	23	90	1614600
+GetLeftProduct : 		87	57	62	20	6149160
+GetRightProduct : 		20	72	3	46	198720
+GetDiagonalProduct : 	20	11	34	31	231880
+Row : 15 ,Column : 7 	Highest : 51267216
+GetUpProduct : 		7	69	16	72	556416
+GetDownProduct : 		72	11	88	1	69696
+GetLeftProduct : 		57	62	20	72	5088960
+GetRightProduct : 		72	3	46	33	327888
+GetDiagonalProduct : 	72	24	62	49	5249664
+Row : 15 ,Column : 8 	Highest : 51267216
+GetUpProduct : 		5	28	7	3	2940
+GetDownProduct : 		3	24	34	74	181152
+GetLeftProduct : 		62	20	72	3	267840
+GetRightProduct : 		3	46	33	67	305118
+GetDiagonalProduct : 	3	94	99	71	1982178
+Row : 15 ,Column : 9 	Highest : 51267216
+GetUpProduct : 		44	73	97	46	14331944
+GetDownProduct : 		46	94	62	31	8310728
+GetLeftProduct : 		20	72	3	46	198720
+GetRightProduct : 		46	33	67	46	4678476
+GetDiagonalProduct : 	46	72	69	48	10969344
+Row : 15 ,Column : 10 	Highest : 51267216
+GetUpProduct : 		44	92	57	33	7614288
+GetDownProduct : 		33	72	99	49	11525976
+GetLeftProduct : 		72	3	46	33	327888
+GetRightProduct : 		33	67	46	55	5593830
+GetDiagonalProduct : 	33	18	82	86	4188888
+Row : 15 ,Column : 11 	Highest : 51267216
+GetUpProduct : 		37	13	32	67	1031264
+GetDownProduct : 		67	18	69	71	5908194
+GetLeftProduct : 		3	46	33	67	305118
+GetRightProduct : 		67	46	55	12	2034120
+GetDiagonalProduct : 	67	8	67	81	2908872
+Row : 15 ,Column : 12 	Highest : 51267216
+GetUpProduct : 		44	86	16	46	2785024
+GetDownProduct : 		46	8	82	48	1448448
+GetLeftProduct : 		46	33	67	46	4678476
+GetRightProduct : 		46	55	12	32	971520
+GetDiagonalProduct : 	46	46	59	16	1997504
+Row : 15 ,Column : 13 	Highest : 51267216
+GetUpProduct : 		60	52	26	55	4461600
+GetDownProduct : 		55	46	67	86	14577860
+GetLeftProduct : 		33	67	46	55	5593830
+GetRightProduct : 		55	12	32	63	1330560
+GetDiagonalProduct : 	55	29	85	23	3118225
+Row : 15 ,Column : 14 	Highest : 51267216
+GetUpProduct : 		21	17	26	12	111384
+GetDownProduct : 		12	29	59	81	1663092
+GetLeftProduct : 		67	46	55	12	2034120
+GetRightProduct : 		12	32	63	93	2249856
+GetDiagonalProduct : 	12	32	74	57	1619712
+Row : 15 ,Column : 15 	Highest : 51267216
+GetUpProduct : 		58	77	79	32	11290048
+GetDownProduct : 		32	32	85	16	1392640
+GetLeftProduct : 		46	55	12	32	971520
+GetRightProduct : 		32	63	93	53	9936864
+GetDiagonalProduct : 	32	40	4	5	25600
+Row : 15 ,Column : 16 	Highest : 51267216
+GetUpProduct : 		51	4	33	63	424116
+GetDownProduct : 		63	40	74	23	4289040
+GetLeftProduct : 		55	12	32	63	1330560
+GetRightProduct : 		63	93	53	69	21426363
+GetDiagonalProduct : 	63	62	36	54	7593264
+Row : 15 ,Column : 17 	Highest : 51267216
+GetUpProduct : 		54	89	27	93	12067866
+GetDownProduct : 		93	62	4	57	1314648
+GetLeftProduct : 		12	32	63	93	2249856
+Row : 15 ,Column : 18 	Highest : 51267216
+GetUpProduct : 		17	55	98	53	4856390
+GetDownProduct : 		53	76	36	5	725040
+GetLeftProduct : 		32	63	93	53	9936864
+Row : 15 ,Column : 19 	Highest : 51267216
+GetUpProduct : 		58	40	66	69	10565280
+GetDownProduct : 		69	36	16	54	2146176
+GetLeftProduct : 		63	93	53	69	21426363
+Row : 16 ,Column : 0 	Highest : 51267216
+GetUpProduct : 		19	4	88	4	26752
+GetDownProduct : 		4	20	20	1	1600
+GetRightProduct : 		4	42	16	73	196224
+GetDiagonalProduct : 	4	69	35	71	685860
+Row : 16 ,Column : 1 	Highest : 51267216
+GetUpProduct : 		80	52	36	42	6289920
+GetDownProduct : 		42	69	73	70	14808780
+GetRightProduct : 		42	16	73	38	1864128
+GetDiagonalProduct : 	42	36	29	83	3639384
+Row : 16 ,Column : 2 	Highest : 51267216
+GetUpProduct : 		81	8	68	16	705024
+GetDownProduct : 		16	36	35	54	1088640
+GetRightProduct : 		16	73	38	25	1109600
+GetDiagonalProduct : 	16	41	78	51	2609568
+Row : 16 ,Column : 3 	Highest : 51267216
+GetUpProduct : 		68	83	87	73	35845044
+GetDownProduct : 		73	41	29	71	6162587
+GetLeftProduct : 		4	42	16	73	196224
+GetRightProduct : 		73	38	25	39	2704650
+GetDiagonalProduct : 	73	72	31	54	8798544
+Row : 16 ,Column : 4 	Highest : 51267216
+GetUpProduct : 		5	97	57	38	1050510
+GetDownProduct : 		38	72	78	83	17712864
+GetLeftProduct : 		42	16	73	38	1864128
+GetRightProduct : 		38	25	39	11	407550
+GetDiagonalProduct : 	38	30	90	69	7079400
+Row : 16 ,Column : 5 	Highest : 51267216
+GetUpProduct : 		94	35	62	25	5099500
+GetDownProduct : 		25	30	31	51	1185750
+GetLeftProduct : 		16	73	38	25	1109600
+GetRightProduct : 		25	39	11	24	257400
+GetDiagonalProduct : 	25	23	1	16	9200
+Row : 16 ,Column : 6 	Highest : 51267216
+GetUpProduct : 		47	99	20	39	3629340
+GetDownProduct : 		39	23	90	54	4359420
+GetLeftProduct : 		73	38	25	39	2704650
+GetRightProduct : 		39	11	24	94	967824
+GetDiagonalProduct : 	39	88	74	92	23365056
+Row : 16 ,Column : 7 	Highest : 51267216
+GetUpProduct : 		69	16	72	11	874368
+GetDownProduct : 		11	88	1	69	66792
+GetLeftProduct : 		38	25	39	11	407550
+GetRightProduct : 		11	24	94	72	1786752
+GetDiagonalProduct : 	11	34	31	33	382602
+Row : 16 ,Column : 8 	Highest : 51267216
+GetUpProduct : 		28	7	3	24	14112
+GetDownProduct : 		24	34	74	16	966144
+GetLeftProduct : 		25	39	11	24	257400
+GetRightProduct : 		24	94	72	18	2923776
+GetDiagonalProduct : 	24	62	49	48	3499776
+Row : 16 ,Column : 9 	Highest : 51267216
+GetUpProduct : 		73	97	46	94	30618244
+GetDownProduct : 		94	62	31	92	16621456
+GetLeftProduct : 		39	11	24	94	967824
+GetRightProduct : 		94	72	18	8	974592
+GetDiagonalProduct : 	94	99	71	61	40304286
+Row : 16 ,Column : 10 	Highest : 51267216
+GetUpProduct : 		92	57	33	72	12459744
+GetDownProduct : 		72	99	49	33	11525976
+GetLeftProduct : 		11	24	94	72	1786752
+GetRightProduct : 		72	18	8	46	476928
+GetDiagonalProduct : 	72	69	48	43	10253952
+Row : 16 ,Column : 11 	Highest : 51267216
+GetUpProduct : 		13	32	67	18	501696
+GetDownProduct : 		18	69	71	48	4232736
+GetLeftProduct : 		24	94	72	18	2923776
+GetRightProduct : 		18	8	46	29	192096
+GetDiagonalProduct : 	18	82	86	52	6600672
+Row : 16 ,Column : 12 	Highest : 51267216
+GetUpProduct : 		86	16	46	8	506368
+GetDownProduct : 		8	82	48	61	1920768
+GetLeftProduct : 		94	72	18	8	974592
+GetRightProduct : 		8	46	29	32	341504
+GetDiagonalProduct : 	8	67	81	1	43416
+Row : 16 ,Column : 13 	Highest : 51267216
+GetUpProduct : 		52	26	55	46	3420560
+GetDownProduct : 		46	67	86	43	11397236
+GetLeftProduct : 		72	18	8	46	476928
+GetRightProduct : 		46	29	32	40	1707520
+GetDiagonalProduct : 	46	59	16	89	3864736
+Row : 16 ,Column : 14 	Highest : 51267216
+GetUpProduct : 		17	26	12	29	153816
+GetDownProduct : 		29	59	81	52	7206732
+GetLeftProduct : 		18	8	46	29	192096
+GetRightProduct : 		29	32	40	62	2301440
+GetDiagonalProduct : 	29	85	23	19	1077205
+Row : 16 ,Column : 15 	Highest : 51267216
+GetUpProduct : 		77	79	32	32	6228992
+GetDownProduct : 		32	85	16	1	43520
+GetLeftProduct : 		8	46	29	32	341504
+GetRightProduct : 		32	40	62	76	6031360
+GetDiagonalProduct : 	32	74	57	67	9043392
+Row : 16 ,Column : 16 	Highest : 51267216
+GetUpProduct : 		4	33	63	40	332640
+GetDownProduct : 		40	74	23	89	6059120
+GetLeftProduct : 		46	29	32	40	1707520
+GetRightProduct : 		40	62	76	36	6785280
+GetDiagonalProduct : 	40	4	5	48	38400
+Row : 16 ,Column : 17 	Highest : 51267216
+GetUpProduct : 		89	27	93	62	13855698
+GetDownProduct : 		62	4	57	19	268584
+GetLeftProduct : 		29	32	40	62	2301440
+Row : 16 ,Column : 18 	Highest : 51267216
+GetUpProduct : 		55	98	53	76	21710920
+GetDownProduct : 		76	36	5	67	916560
+GetLeftProduct : 		32	40	62	76	6031360
+Row : 16 ,Column : 19 	Highest : 51267216
+GetUpProduct : 		40	66	69	36	6557760
+GetDownProduct : 		36	16	54	48	1492992
+GetLeftProduct : 		40	62	76	36	6785280
+Row : 17 ,Column : 0 	Highest : 51267216
+GetUpProduct : 		4	88	4	20	28160
+GetRightProduct : 		20	69	36	41	2036880
+Row : 17 ,Column : 1 	Highest : 51267216
+GetUpProduct : 		52	36	42	69	5425056
+GetRightProduct : 		69	36	41	72	7332768
+Row : 17 ,Column : 2 	Highest : 51267216
+GetUpProduct : 		8	68	16	36	313344
+GetRightProduct : 		36	41	72	30	3188160
+Row : 17 ,Column : 3 	Highest : 51267216
+GetUpProduct : 		83	87	73	41	21612453
+GetLeftProduct : 		20	69	36	41	2036880
+GetRightProduct : 		41	72	30	23	2036880
+Row : 17 ,Column : 4 	Highest : 51267216
+GetUpProduct : 		97	57	38	72	15127344
+GetLeftProduct : 		69	36	41	72	7332768
+GetRightProduct : 		72	30	23	88	4371840
+Row : 17 ,Column : 5 	Highest : 51267216
+GetUpProduct : 		35	62	25	30	1627500
+GetLeftProduct : 		36	41	72	30	3188160
+GetRightProduct : 		30	23	88	34	2064480
+Row : 17 ,Column : 6 	Highest : 51267216
+GetUpProduct : 		99	20	39	23	1776060
+GetLeftProduct : 		41	72	30	23	2036880
+GetRightProduct : 		23	88	34	62	4266592
+Row : 17 ,Column : 7 	Highest : 51267216
+GetUpProduct : 		16	72	11	88	1115136
+GetLeftProduct : 		72	30	23	88	4371840
+GetRightProduct : 		88	34	62	99	18364896
+Row : 17 ,Column : 8 	Highest : 51267216
+GetUpProduct : 		7	3	24	34	17136
+GetLeftProduct : 		30	23	88	34	2064480
+GetRightProduct : 		34	62	99	69	14399748
+Row : 17 ,Column : 9 	Highest : 51267216
+GetUpProduct : 		97	46	94	62	26004536
+GetLeftProduct : 		23	88	34	62	4266592
+GetRightProduct : 		62	99	69	82	34728804
+Row : 17 ,Column : 10 	Highest : 51267216
+GetUpProduct : 		57	33	72	99	13407768
+GetLeftProduct : 		88	34	62	99	18364896
+GetRightProduct : 		99	69	82	67	37529514
+Row : 17 ,Column : 11 	Highest : 51267216
+GetUpProduct : 		32	67	18	69	2662848
+GetLeftProduct : 		34	62	99	69	14399748
+GetRightProduct : 		69	82	67	59	22366074
+Row : 17 ,Column : 12 	Highest : 51267216
+GetUpProduct : 		16	46	8	82	482816
+GetLeftProduct : 		62	99	69	82	34728804
+GetRightProduct : 		82	67	59	85	27552410
+Row : 17 ,Column : 13 	Highest : 51267216
+GetUpProduct : 		26	55	46	67	4407260
+GetLeftProduct : 		99	69	82	67	37529514
+GetRightProduct : 		67	59	85	74	24864370
+Row : 17 ,Column : 14 	Highest : 51267216
+GetUpProduct : 		26	12	29	59	533832
+GetLeftProduct : 		69	82	67	59	22366074
+GetRightProduct : 		59	85	74	4	1484440
+Row : 17 ,Column : 15 	Highest : 51267216
+GetUpProduct : 		79	32	32	85	6876160
+GetLeftProduct : 		82	67	59	85	27552410
+GetRightProduct : 		85	74	4	36	905760
+Row : 17 ,Column : 16 	Highest : 51267216
+GetUpProduct : 		33	63	40	74	6153840
+GetLeftProduct : 		67	59	85	74	24864370
+GetRightProduct : 		74	4	36	16	170496
+Row : 17 ,Column : 17 	Highest : 51267216
+GetUpProduct : 		27	93	62	4	622728
+GetLeftProduct : 		59	85	74	4	1484440
+Row : 17 ,Column : 18 	Highest : 51267216
+GetUpProduct : 		98	53	76	36	14210784
+GetLeftProduct : 		85	74	4	36	905760
+Row : 17 ,Column : 19 	Highest : 51267216
+GetUpProduct : 		66	69	36	16	2623104
+GetLeftProduct : 		74	4	36	16	170496
+Row : 18 ,Column : 0 	Highest : 51267216
+GetUpProduct : 		88	4	20	20	140800
+GetRightProduct : 		20	73	35	29	1481900
+Row : 18 ,Column : 1 	Highest : 51267216
+GetUpProduct : 		36	42	69	73	7615944
+GetRightProduct : 		73	35	29	78	5779410
+Row : 18 ,Column : 2 	Highest : 51267216
+GetUpProduct : 		68	16	36	35	1370880
+GetRightProduct : 		35	29	78	31	2454270
+Row : 18 ,Column : 3 	Highest : 51267216
+GetUpProduct : 		87	73	41	29	7551339
+GetLeftProduct : 		20	73	35	29	1481900
+GetRightProduct : 		29	78	31	90	6310980
+Row : 18 ,Column : 4 	Highest : 51267216
+GetUpProduct : 		57	38	72	78	12164256
+GetLeftProduct : 		73	35	29	78	5779410
+GetRightProduct : 		78	31	90	1	217620
+Row : 18 ,Column : 5 	Highest : 51267216
+GetUpProduct : 		62	25	30	31	1441500
+GetLeftProduct : 		35	29	78	31	2454270
+GetRightProduct : 		31	90	1	74	206460
+Row : 18 ,Column : 6 	Highest : 51267216
+GetUpProduct : 		20	39	23	90	1614600
+GetLeftProduct : 		29	78	31	90	6310980
+GetRightProduct : 		90	1	74	31	206460
+Row : 18 ,Column : 7 	Highest : 51267216
+GetUpProduct : 		72	11	88	1	69696
+GetLeftProduct : 		78	31	90	1	217620
+GetRightProduct : 		1	74	31	49	112406
+Row : 18 ,Column : 8 	Highest : 51267216
+GetUpProduct : 		3	24	34	74	181152
+GetLeftProduct : 		31	90	1	74	206460
+GetRightProduct : 		74	31	49	71	7980826
+Row : 18 ,Column : 9 	Highest : 51267216
+GetUpProduct : 		46	94	62	31	8310728
+GetLeftProduct : 		90	1	74	31	206460
+GetRightProduct : 		31	49	71	48	5176752
+Row : 18 ,Column : 10 	Highest : 51267216
+GetUpProduct : 		33	72	99	49	11525976
+GetLeftProduct : 		1	74	31	49	112406
+GetRightProduct : 		49	71	48	86	14361312
+Row : 18 ,Column : 11 	Highest : 51267216
+GetUpProduct : 		67	18	69	71	5908194
+GetLeftProduct : 		74	31	49	71	7980826
+GetRightProduct : 		71	48	86	81	23740128
+Row : 18 ,Column : 12 	Highest : 51267216
+GetUpProduct : 		46	8	82	48	1448448
+GetLeftProduct : 		31	49	71	48	5176752
+GetRightProduct : 		48	86	81	16	5349888
+Row : 18 ,Column : 13 	Highest : 51267216
+GetUpProduct : 		55	46	67	86	14577860
+GetLeftProduct : 		49	71	48	86	14361312
+GetRightProduct : 		86	81	16	23	2563488
+Row : 18 ,Column : 14 	Highest : 51267216
+GetUpProduct : 		12	29	59	81	1663092
+GetLeftProduct : 		71	48	86	81	23740128
+GetRightProduct : 		81	16	23	57	1699056
+Row : 18 ,Column : 15 	Highest : 51267216
+GetUpProduct : 		32	32	85	16	1392640
+GetLeftProduct : 		48	86	81	16	5349888
+GetRightProduct : 		16	23	57	5	104880
+Row : 18 ,Column : 16 	Highest : 51267216
+GetUpProduct : 		63	40	74	23	4289040
+GetLeftProduct : 		86	81	16	23	2563488
+GetRightProduct : 		23	57	5	54	353970
+Row : 18 ,Column : 17 	Highest : 51267216
+GetUpProduct : 		93	62	4	57	1314648
+GetLeftProduct : 		81	16	23	57	1699056
+Row : 18 ,Column : 18 	Highest : 51267216
+GetUpProduct : 		53	76	36	5	725040
+GetLeftProduct : 		16	23	57	5	104880
+Row : 18 ,Column : 19 	Highest : 51267216
+GetUpProduct : 		69	36	16	54	2146176
+GetLeftProduct : 		23	57	5	54	353970
+Row : 19 ,Column : 0 	Highest : 51267216
+GetUpProduct : 		4	20	20	1	1600
+GetRightProduct : 		1	70	54	71	268380
+Row : 19 ,Column : 1 	Highest : 51267216
+GetUpProduct : 		42	69	73	70	14808780
+GetRightProduct : 		70	54	71	83	22275540
+Row : 19 ,Column : 2 	Highest : 51267216
+GetUpProduct : 		16	36	35	54	1088640
+GetRightProduct : 		54	71	83	51	16229322
+Row : 19 ,Column : 3 	Highest : 51267216
+GetUpProduct : 		73	41	29	71	6162587
+GetLeftProduct : 		1	70	54	71	268380
+GetRightProduct : 		71	83	51	54	16229322
+Row : 19 ,Column : 4 	Highest : 51267216
+GetUpProduct : 		38	72	78	83	17712864
+GetLeftProduct : 		70	54	71	83	22275540
+GetRightProduct : 		83	51	54	69	15772158
+Row : 19 ,Column : 5 	Highest : 51267216
+GetUpProduct : 		25	30	31	51	1185750
+GetLeftProduct : 		54	71	83	51	16229322
+GetRightProduct : 		51	54	69	16	3040416
+Row : 19 ,Column : 6 	Highest : 51267216
+GetUpProduct : 		39	23	90	54	4359420
+GetLeftProduct : 		71	83	51	54	16229322
+GetRightProduct : 		54	69	16	92	5484672
+Row : 19 ,Column : 7 	Highest : 51267216
+GetUpProduct : 		11	88	1	69	66792
+GetLeftProduct : 		83	51	54	69	15772158
+GetRightProduct : 		69	16	92	33	3351744
+Row : 19 ,Column : 8 	Highest : 51267216
+GetUpProduct : 		24	34	74	16	966144
+GetLeftProduct : 		51	54	69	16	3040416
+GetRightProduct : 		16	92	33	48	2331648
+Row : 19 ,Column : 9 	Highest : 51267216
+GetUpProduct : 		94	62	31	92	16621456
+GetLeftProduct : 		54	69	16	92	5484672
+GetRightProduct : 		92	33	48	61	8889408
+Row : 19 ,Column : 10 	Highest : 51267216
+GetUpProduct : 		72	99	49	33	11525976
+GetLeftProduct : 		69	16	92	33	3351744
+GetRightProduct : 		33	48	61	43	4154832
+Row : 19 ,Column : 11 	Highest : 51267216
+GetUpProduct : 		18	69	71	48	4232736
+GetLeftProduct : 		16	92	33	48	2331648
+GetRightProduct : 		48	61	43	52	6547008
+Row : 19 ,Column : 12 	Highest : 51267216
+GetUpProduct : 		8	82	48	61	1920768
+GetLeftProduct : 		92	33	48	61	8889408
+GetRightProduct : 		61	43	52	1	136396
+Row : 19 ,Column : 13 	Highest : 51267216
+GetUpProduct : 		46	67	86	43	11397236
+GetLeftProduct : 		33	48	61	43	4154832
+GetRightProduct : 		43	52	1	89	199004
+Row : 19 ,Column : 14 	Highest : 51267216
+GetUpProduct : 		29	59	81	52	7206732
+GetLeftProduct : 		48	61	43	52	6547008
+GetRightProduct : 		52	1	89	19	87932
+Row : 19 ,Column : 15 	Highest : 51267216
+GetUpProduct : 		32	85	16	1	43520
+GetLeftProduct : 		61	43	52	1	136396
+GetRightProduct : 		1	89	19	67	113297
+Row : 19 ,Column : 16 	Highest : 51267216
+GetUpProduct : 		40	74	23	89	6059120
+GetLeftProduct : 		43	52	1	89	199004
+GetRightProduct : 		89	19	67	48	5438256
+Row : 19 ,Column : 17 	Highest : 51267216
+GetUpProduct : 		62	4	57	19	268584
+GetLeftProduct : 		52	1	89	19	87932
+Row : 19 ,Column : 18 	Highest : 51267216
+GetUpProduct : 		76	36	5	67	916560
+GetLeftProduct : 		1	89	19	67	113297
+Row : 19 ,Column : 19 	Highest : 51267216
+GetUpProduct : 		36	16	54	48	1492992
+GetLeftProduct : 		89	19	67	48	5438256
+51267216
