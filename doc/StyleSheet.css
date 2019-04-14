@@ -1,0 +1,33 @@
+    .button
+    {
+        display: inline;
+  		border: none;
+  		color: white;
+  		text-align: center;
+  		cursor: pointer;   
+        font-size:20px
+    }
+    .Solved
+    {
+        background-color: #4CAF50
+    }
+    .Attempted
+    {
+        background-color: #f44336
+    }
+    .Not-Attempted
+    {
+        background-color: gray
+    }
+    .Solved:hover
+    {
+        background-color: green
+    }
+    .Attempted:hover
+    {
+        background-color: red
+    }
+    .Not-Attempted:hover
+    {
+        background-color: #008CBA
+    }
