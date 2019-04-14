@@ -6,5 +6,5 @@ This is for my own purpose. I dont have money for private repository that's why 
 
 In this Some are solved and some are not.
 
-Solved list are found in Doc/Solved.txt
+Solved list are found in Doc/Solved.html
 
