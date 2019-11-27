@@ -1,0 +1,12 @@
+def main():
+    number = 0
+    max_num = input("Enter number : ")
+    for i in range(0,int(max_num)):
+        power = 1
+        for j in range(0,(i + 1)):
+            power = power * ( i + 1 )
+        number = number + power
+        #print("number %r power %r i %r" %(number, power,i + 1))
+    print("%r" %(number % 100000000000 ))
+
+main()
