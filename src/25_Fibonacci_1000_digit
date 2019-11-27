@@ -1,0 +1,13 @@
+
+def main():
+    previous = 0
+    current = 1
+    index = 1
+    while len(str(current)) < 1000:
+        next = current + previous
+        previous = current
+        current = next
+        index = index + 1
+    print("%r" %index)   
+    
+main()
